@@ -1,0 +1,805 @@
+NOVEMBER 17, 2021
+08:54:06
+Good morning anh/chị. VBMA xin gửi swap date tham khảo
+08:54:08
+Morning session	 	 	 	 
+Trade date	17-Nov-21	 	 	 
+Start date	17-Nov-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	18-Nov-21	Thu	1	 
+1w	24-Nov-21	Wed	7	 
+2w	1-Dec-21	Wed	14	 
+1m	17-Dec-21	Fri	30	 
+2m	17-Jan-22	Mon	61	 
+3m	17-Feb-22	Thu	92	 
+6m	17-May-22	Tue	181	 
+9m	17-Aug-22	Wed	273	 
+12m	17-Nov-22	Thu	365	 
+ 	 	 	 	 
+ 	 	 	 	 
+Afternoon session	 	 	 	 
+Trade date	17-Nov-21	 	 	 
+Start date	18-Nov-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	19-Nov-21	Fri	1	 
+1w	25-Nov-21	Thu	7	US Holidays
+2w	2-Dec-21	Thu	14	 
+1m	17-Dec-21	Fri	29	 
+2m	18-Jan-22	Tue	61	 
+3m	18-Feb-22	Fri	92	 
+6m	18-May-22	Wed	181	 
+9m	18-Aug-22	Thu	273	 
+12m	18-Nov-22	Fri	365	 
+09:00:52
+VBMA xin gửi anh/chị giá phiên sáng 17/11/2021
+09:00:54
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 
+ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.05	0.85/1.10
+LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 
+SEAB	0.55/0.70	0.55/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	0.85/1.10	0.85/1.10	0.85/1.10
+MSB	0.65/0.70	0.67/0.72	0.68/0.70	0.68/0.73	0.75/0.85	0.95/1.10	0.90/1.05	0.90/1.05	0.95/1.05
+TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+HDB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10
+OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+VIB	0.60/0.70	0.63/0.73	0.65/0.75	0.68/0.78	0.75/0.90	0.95/1.10	0.95/1.10	0.95/1.10	0.95/1.10
+STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	 	 	 	 	 
+TPB	0.65/0.72	0.67/0.72	0.67/0.72	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+VPB	0.60/0.70	0.60/0.70	0.60/0.70	0.65/0.80	0.75/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+EIB	0.65/0.75	0.65/0.75	0.67/0.77	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10
+Nguyen Viet Anh Nov 17 HDBank
+09:01:01
+sell LV on 
+Tran Thi Hang Nov 17 Ho Chi Minh Development Commercial Joint Stock Bank
+09:01:02
+sell LV ON 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:01:04
+sell LV 1w 2w 0.7
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:01:04
+sell LVBT ON và 1w
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:01:09
+bid 2w 3w 0.67
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:01:13
+70u 1w 30u 2w nhé
+Tran Thi Hang Nov 17 Ho Chi Minh Development Commercial Joint Stock Bank
+09:01:17
+sell LV 1w 
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:01:21
+ON -1w 30 each 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:01:23
+sell LV ON
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:01:26
+sell LVBT 1M 0.7
+Ha Hai Nam Nov 17 Military Commercial Joint Stock Bank
+09:01:27
+sell LV ON
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:01:37
+sell LV 50u 1w nhé 
+Tiep Le Ba Nov 17 Vietnam Prosperity JS Commercial Bank
+09:01:39
+sell ON LVBT 
+09:01:41
+50 mio 
+Dat Le Tat Nov 17 SouthEast Asia Commercial Joint Stock Bank
+09:01:50
+sell LV 1w 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:02:00
+20u 1m 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:02:15
+30u ON 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:02:46
+sell MSB TPB EIB ON 0.65 30u each
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:02:58
+done a Vũ 10u nhé ạ
+Viet Nguyen Phi Nov 17 Tien Phong Commercial Joint Stock Bank
+09:03:03
+done 10u a Vũ
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:03:04
+okie Khánh
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:03:06
+ON 0.6 0.7
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:03:13
+offer ON 0.65
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:03:24
+done VIB, done HD 10u each, MB 10u each, done EIB, VP SEAV 10 each nhé ạ
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:03:27
+done a Vu 10u
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:03:32
+done QA
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:03:34
+bid 2w 0.68
+Nguyen Viet Anh Nov 17 HDBank
+09:03:36
+done Q.A 10u on 
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:03:37
+sell
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:03:37
+done QA, a tkss
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:03:42
+a Mimi 20u nhóe
+Nguyen Viet Anh Nov 17 HDBank
+09:03:44
+còn 1w có done k QA nhỉ 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:03:47
+QA done c 1m bn e
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:03:48
+done em
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:03:50
+có done c Việt A ơi
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:03:53
+e tkss
+Dat Le Tat Nov 17 SouthEast Asia Commercial Joint Stock Bank
+09:03:55
+done LVBT 10u 1w 0.7 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:03:55
+QA done t ON ko nhỉ
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:03:56
+à done c Ngọc 10u nhesa j
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:03:56
+okie Khánh Việt
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:03:56
+a tksss
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:03:59
+c tks
+Viet Nguyen Phi Nov 17 Tien Phong Commercial Joint Stock Bank
+09:03:59
+TPBank	 ON  	 1W  	 2W  	1M 
+ Bid 	0.63	0.67	0.67	0.67
+Ask	0.66	0.71	0.71	0.72
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:04:04
+Hưng 10u nhé :))
+Nguyen Viet Anh Nov 17 HDBank
+09:04:06
+okie done em 10u ON 1u 1w nha 
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:04:08
+sell ON 
+09:04:10
+Phi 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:04:15
+oki t tks
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:04:17
+sell ON TPB
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:04:19
+sell ON TP 
+Nguyen Viet Anh Nov 17 HDBank
+09:04:21
+sell TP on 
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:04:23
+sell 2w TP
+Tran Thi Hang Nov 17 Ho Chi Minh Development Commercial Joint Stock Bank
+09:04:23
+sell TP ON 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:04:28
+biuy VIB ON 0.63
+09:04:30
+15u
+Nguyen Viet Anh Nov 17 HDBank
+09:04:36
+sell AB 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:04:40
+done ABB 30u
+Viet Nguyen Phi Nov 17 Tien Phong Commercial Joint Stock Bank
+09:04:47
+done tcbd vib 10u each ạ
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:04:54
+done a Vũ 15u only
+09:04:55
+e tks 
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:04:56
+20u nhé Viet
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:04:57
+okie Việt
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:04:57
+offer ON 0.6
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:04:57
+LPB	ON	1W	2W	1M
+Bid	0.6	0.6	0.6	0.6
+Ask	0.7	0.7	0.7	0.7
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:05:01
+sell
+09:05:05
+0.6 ON
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:05:12
+sell msb 1m 0.68
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:05:15
+sell ON 0.6
+Viet Nguyen Phi Nov 17 Tien Phong Commercial Joint Stock Bank
+09:05:15
+done a Khánh  5u
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:05:16
+done Hưng 10u nhé :))
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:05:17
+20u
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:05:18
+Bank	Price	ON	1W	2W	1M
+VIB	Bid	0.55	0.6	0.6	0.65
+ 	Ask	0.65	0.7	0.7	0.75
+Viet Nguyen Phi Nov 17 Tien Phong Commercial Joint Stock Bank
+09:05:21
+5u 2w
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:05:33
+ON 0.5 0.7
+09:05:36
+ok c Ngoc 10u
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:05:41
+EIB/tod	ON	1w	2W	1M 
+Bid	 0.60 	 0.60 	 0.65 	 0.65 
+Ask	 0.70 	 0.70 	 0.75 	 0.75 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:05:42
+oki nha QA
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:05:44
+ON 0.5 0.7
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:05:45
+bid 2w 0.67
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:05:48
+sell EIB
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:05:50
+sell anh Khánh exim ON
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:05:51
+ON
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:05:51
+20u
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:05:51
+ACB/tod	 ON  	 1W  	 2W  	1M 	2M 	3M	6M 	9M 	1Y 
+Bid 	0.55	0.55	0.60	0.60	0.70	 	0.85	0.85	0.85
+Ask	0.75	0.75	0.80	0.80	0.90	 	1.05	1.05	1.10
+Tran Thi Hang Nov 17 Ho Chi Minh Development Commercial Joint Stock Bank
+09:05:52
+sell exim ON 
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:05:58
+done chị Hà 10u 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:05:59
+done Khánh MSB 10u , c tks
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:06:01
+EIB/tod	ON	1w	2W	1M 
+Bid	 0.55 	 0.60 	 0.65 	 0.65 
+Ask	 0.65 	 0.70 	 0.75 	 0.75 
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:06:08
+ok e
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:06:10
+MBB	ON	1W	2W	1M 
+Bid	0.50	0.50	0.55	0.60
+Ask	0.70	0.70	0.75	0.80
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:06:20
+e tks ạ
+09:06:26
+ON 0.5
+09:06:31
+0.5 0.7
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:06:48
+bid 1w 0.65, 2w 0.67
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:06:54
+sell a Mimi 10u 
+09:06:55
+2w
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:06:59
+oki man
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:07:07
+e tkss
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:07:12
+bid  7m 0.95
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:07:23
+offer 9m 1.0
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:07:33
+bid 1w 0.65, 2w 0.67
+Do Thi Van Anh Nov 17 Orient Commercial Bank
+09:07:55
+bid 3m 0.95
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:08:07
+bid 2m 0.75
+09:08:21
+offer ON 0.6
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:08:25
+buy
+Tiep Le Ba Nov 17 Vietnam Prosperity JS Commercial Bank
+09:08:29
+ 	 ON 	  1w 	 2w 	1M
+BID	 0.50   	 0.50   	 0.55   	 0.60   
+ASK	 0.70   	 0.70   	 0.75   	 0.80   
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:08:31
+sell chị Ngọc
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:08:32
+buy ON 10u ạ
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:08:43
+done NGọc 30u nhé 
+Nguyen Viet Anh Nov 17 HDBank
+09:08:47
+sell Hòa ON
+09:08:53
+20u em nhé 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:08:56
+cho t xin 15u thôi Linh nhé
+09:08:58
+t tks
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:09:02
+done chị VA 10u ạ. nothing Hung nha
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:09:03
+done Ngọc, done Hòa nhé 
+Nguyen Viet Anh Nov 17 HDBank
+09:09:09
+done em, chị tks 
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:09:11
+nothing Hòa 
+Tran Thi Ngoc Thuy Nov 17 Tien Phong Bank
+09:09:15
+offer 1y 1.0 
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:09:16
+dạ chị
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:09:23
+bid 1w 0.65, 2w 0.67
+Le Lam Thinh Nov 17 Orient Commercial Bank
+09:09:25
+OCB	ON	1W	2W	1M
+Bid	0.50	0.50	0.60	0.60
+Ask	0.70	0.70	0.80	0.80
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:09:27
+offer ON 0.6
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:09:27
+bid 6m 0.95
+09:09:33
+sell a Minh 1w nhé
+Kien Nguyen Khac Nov 17 Asia Commercial Bank
+09:09:40
+6m-1y 0.9-1.0
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:10:00
+done Vu
+09:10:06
+30u nhe man
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:10:06
+30u nhé anh 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:10:06
+sell tp 1w 0.67
+09:10:10
+eee
+Nguyen Hoang Minh Nov 17 Saigon Thuong Tin Commercial Joint Stock Bank
+09:10:14
+a tksss
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:10:15
+sell tp 1m 0.67
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:10:31
+bid 1yr 0.95
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:10:48
+bid 1y 0.975
+09:10:53
+tách chân
+Viet Nguyen Phi Nov 17 Tien Phong Commercial Joint Stock Bank
+09:11:20
+not suit c Ngọc ạ
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:11:54
+bid 2w 0.66
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:12:04
+sell a Khánh
+09:12:08
+100u nhé a
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:12:09
+done QA
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:12:13
+sell TCB 1yr 20u
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:12:20
+okie e, a tkss
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:12:28
+dạ e tkss
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:12:31
+bid 6m 0.95
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:12:43
+done Ngọc
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:12:52
+vâng, e tks 
+09:13:17
+buy VIB 1w 0.65
+09:13:19
+20u
+Dat Le Tat Nov 17 SouthEast Asia Commercial Joint Stock Bank
+09:13:34
+sell ABBK 20u 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:13:41
+okie Ngọc nhé
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:13:47
+done a Vũ only 
+09:13:48
+e tks
+Nguyen Viet Anh Nov 17 HDBank
+09:13:50
+buy anh Đạt 10u 1w 
+Pham Dinh Hoa Nov 17 Asia Commercial Bank
+09:13:55
+offer 2m 0.85
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:13:55
+buy a Đạt 30u 1w
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:14:07
+sell QA 
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:14:10
+offer ON 0.6 10u
+Dat Le Tat Nov 17 SouthEast Asia Commercial Joint Stock Bank
+09:14:18
+nothing ABBK 
+HD, LV 10 each nhé 
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:14:18
+sell QA 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:14:19
+20u 1w
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:14:33
+done SEAV MSB MB 10 each
+09:14:36
+em tkss ạ
+Tiep Le Ba Nov 17 Vietnam Prosperity JS Commercial Bank
+09:14:38
+buy ABB 1y if suit
+09:14:48
+10 mio 0.975
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:14:54
+done a Tiệp
+09:14:56
+10u
+Tiep Le Ba Nov 17 Vietnam Prosperity JS Commercial Bank
+09:14:59
+done e a tks 
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:15:03
+done tks QA nha
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:15:50
+done QA nhé 
+Quan Nguyen Hai Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:15:51
+Buy Ngoc 20u 1y 
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:15:56
+offer 1w 0.65
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:16:23
+done msb 20u 1yr
+09:16:36
+done mbfx 20u 1yr 0.975
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:16:42
+offer ON 0.55 10u
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:16:46
+done Ngọc tớ tks nhé 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:16:56
+buy c Hà
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:17:01
+done Ngọc
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:17:10
+20u c nhé
+Nguyen Ngoc Ha Nov 17 Vietnam Technological Commercial Joint Stock Bank
+09:17:15
+c có 10u thôi
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:17:26
+vâng, done c 10u
+09:17:28
+e tks ạ
+Nguyen Viet Anh Nov 17 HDBank
+09:18:02
+done anh Đạt SEA 10u 1w ở trên nhé ạ 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:23:11
+done HD 10u 1w 0.65 nhé
+Nguyen Viet Anh Nov 17 HDBank
+09:23:34
+done chị ạ, em tks 
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:23:42
+sell chị Ngọc 5u 1w nhé ạ
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:23:53
+done Khánh
+09:23:57
+5u
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+09:23:57
+dạ e tksss
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:24:08
+er Ngọc cần thêm ko em 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:24:18
+e đủ rồi ạ
+09:24:19
+:D
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:24:27
+okie e
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:29:48
+bid ON 0.6
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:29:53
+sell
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:29:55
+drll
+09:29:58
+sell
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:29:59
+20u nhé QA
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:30:10
+done a Khánh, c Linh 5u nhé ạ
+Nguyen Duy Khanh Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:30:17
+oki e
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+09:30:24
+done em nhé
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+09:30:31
+dạ em tkss
+Hung Ngo Tuan Nov 17 Vietnam Maritime Commercial Joint Stock Bank
+09:30:53
+offer ON 0.6 10u
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:42:53
+Ngọc ơi nãy chốt done 30u 1w @0.65 nhé
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+09:43:07
+done a Vũ 30u 1w 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+09:43:11
+tks em 
+Tran Hong Quan Nov 17 Vietnam Bond Market Association
+09:48:25
+VBMA xin gửi fixing 17/11/2021
+09:48:28
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 
+ACB	0.55/0.75	0.55/0.75	0.60/0.80	0.60/0.80	0.70/0.90	 	0.90/1.00	0.90/1.00	0.90/1.00
+LPB	0.60/0.70	0.60/0.70	0.60/0.70	0.60/0.70	 	 	 	 	 
+SEAB	0.55/0.70	0.55/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	0.85/1.10	0.85/1.10	0.85/1.10
+MSB	0.50/0.70	0.67/0.72	0.68/0.70	0.68/0.73	0.75/0.85	0.95/1.10	0.90/1.05	0.90/1.05	0.95/1.05
+TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+HDB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10
+OCB	0.50/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+MBB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+VIB	0.55/0.65	0.60/0.70	0.60/0.70	0.65/0.75	0.75/0.90	0.95/1.10	0.95/1.10	0.95/1.10	0.95/1.10
+STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	 	 	 	 	 
+TPB	0.63/0.66	0.67/0.71	0.67/0.71	0.67/0.72	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+VPB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.75/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+EIB	0.50/0.70	0.60/0.70	0.65/0.75	0.65/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10
+Fixing*	0.637%	0.654%	0.677%	0.696%	0.814%	1.000%	0.989%	0.993%	0.995%
+Yesterday	0.700%	0.701%	0.701%	0.707%	0.820%	0.994%	0.981%	0.990%	0.997%
+Change	-0.063%	-0.047%	-0.024%	-0.010%	-0.007%	0.006%	0.007%	0.003%	-0.002%
+14:00:17
+VBMA xin gửi anh/chị giá phiên chiều 17/11/2021
+14:00:20
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.40/0.70	0.40/0.70	0.40/0.70	0.40/0.70	 	 	 	 	 
+ACB	0.40/0.70	0.55/0.75	0.60/0.75	0.60/0.75	0.70/0.85	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10
+LPB	0.63/0.65	0.63/0.68	0.63/0.68	0.65/0.70	 	 	 	 	 
+SEAB	0.55/0.70	0.55/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	0.85/1.10	0.85/1.10	0.85/1.10
+MSB	0.55/0.65	0.60/0.65	0.63/0.68	0.63/0.68	0.75/0.80	0.95/1.10	0.90/1.05	0.90/1.05	0.95/1.00
+TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.75/0.95	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05
+HDB	0.40/0.70	0.50/0.75	0.60/0.80	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10
+OCB	0.40/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+MBB	0.50/0.70	0.50/0.70	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05
+VIB	0.45/0.65	0.60/0.70	0.60/0.70	0.63/0.73	0.75/0.90	0.90/1.05	0.90/1.05	0.90/1.05	0.90/1.05
+STB	0.40/0.70	0.40/0.70	0.40/0.70	0.40/0.70	 	 	 	 	 
+TPB	0.58/0.63	0.62/0.66	0.63/0.68	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+VPB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10
+EIB	0.40/0.60	0.60/0.70	0.60/0.70	0.63/0.73	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+14:01:24
+sell LV 20u TN 63 nhé
+14:01:29
+TN 0.55 0.65
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+14:01:42
+sell LVBT 50u TN nhé 
+Nguyen Thanh Duc Nov 17 Lien Viet Post Joint Stock Commercial Bank
+14:02:32
+done EIB MB nhé ạ
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+14:02:44
+done Đức
+14:02:45
+a tksss
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+14:02:54
+done Đức, chị tks nhé
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+14:03:20
+sell VIBH 6m 30u 0.95 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:03:29
+done ABB nhé
+Kien Nguyen Khac Nov 17 Asia Commercial Bank
+14:03:30
+sell VIBH 6m 10u 0.95
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:03:34
+done a Kiên
+Kien Nguyen Khac Nov 17 Asia Commercial Bank
+14:03:37
+thk em
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:04:01
+offer 1w tom 0.65
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+14:04:40
+sell hd 1m 0.62 tom 20u
+14:04:46
+eeee
+14:04:48
+1m 0.65
+Tran Thi Ngoc Thuy Nov 17 Tien Phong Bank
+14:05:28
+sell Vũ VIB 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:05:46
+done chị Thúy ạ 
+14:05:55
+50u chị nhé
+Tran Thi Ngoc Thuy Nov 17 Tien Phong Bank
+14:06:10
+ok e
+Huynh Nhat Khanh Nov 17 Vietnam Export - Import Bank
+14:06:15
+EIB/tom	ON	1w	2W	1M
+Bid	 0.55 	 0.58 	 0.60 	 0.60 
+Ask	 0.65 	 0.68 	 0.70 	 0.70 
+Nguyen Viet Anh Nov 17 HDBank
+14:06:19
+done chị Ngọc 10u, 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+14:06:25
+c tks nhé
+Nguyen Viet Anh Nov 17 HDBank
+14:06:45
+HDB	ON 	1W 	2W 	1M 
+Bid	0,40	0,50	0,60	0,60
+Ask	0,70	0,75	0,80	0,80
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:09:33
+sell LVBT 1w tom 0.63 nhé
+Tran Thi Ngoc Thuy Nov 17 Tien Phong Bank
+14:10:00
+Vũ ơi đoạn trên done 100u 6m nhe
+14:10:01
+tks e
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:10:05
+dạ okie chị 
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+14:10:09
+buy VIB 20u 1w tom 
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:10:12
+done chị nhé ạ 
+14:10:17
+tks chị thúy
+Dao Le Linh Le Nov 17 Military Commercial Joint Stock Bank
+14:10:52
+bid 1yr tom 0.95
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+14:10:53
+done a Vũ 30u 1w tom nhé
+Vu Ha Tuan Nov 17 Vietnam International Bank
+14:11:02
+done QA vs Ngọc nhé
+14:11:09
+a tks
+Do Quoc Anh Nov 17 Lien Viet Post Joint Stock Commercial Bank
+14:11:10
+e tkss
+Do Hong Ngoc Nov 17 An Binh Commercial JS Bank
+14:11:12
+e tks
