@@ -1,16 +1,22 @@
 import numpy as np
 import pandas as pd
 import re
+import os
 
-def load_files(urls):
+def load_files(dir):
     """ Load txt files to dataframe """
 
     data = []
-    for url in urls:
-        date = re.findall(r'/(\d\d\d\d\d\d\d\d)\.txt$', url)[0]
-        r = requests.get(url)
-        for text in r.text.splitlines():
-            data.append((date, text))
+    for filename in os.listdir(dir):
+        filepath = os.path.sep.join(dir, filename)
+        try:
+            date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
+            with file = open(filepath, encoding='utf-8'):
+                for line in file:
+                    data.append((date, line))
+        except:
+            pass
+  
     df = pd.DataFrame(data)
     df.columns = ['date', 'text']
     df['date'] = pd.to_datetime(df['date'])
