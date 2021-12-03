@@ -12,7 +12,7 @@ def load_files(dir):
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
             with open(filepath, encoding='utf-8') as file:
-                for line in file:
+                for line in file.read().splitlines():
                     data.append((date, line))
         except:
             pass
