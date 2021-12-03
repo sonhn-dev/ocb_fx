@@ -7,15 +7,19 @@ def load_files(dir):
     """ Load txt files to dataframe """
 
     data = []
+    i = 0
     for filename in os.listdir(dir):
         filepath = os.path.sep.join([dir, filename])
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
             with open(filepath, encoding='utf-8') as file:
+                i += 1
                 for line in file.read().splitlines():
                     data.append((date, line))
         except:
             pass
+        finally:
+            print(i, ' file(s) read')
   
     df = pd.DataFrame(data)
     df.columns = ['date', 'text']
