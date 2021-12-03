@@ -8,7 +8,7 @@ def load_files(dir):
 
     data = []
     for filename in os.listdir(dir):
-        filepath = os.path.sep.join(dir, filename)
+        filepath = os.path.sep.join([dir, filename])
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
             with open(filepath, encoding='utf-8') as file:
