@@ -18,8 +18,7 @@ def load_files(dir):
                     data.append((date, line))
         except:
             pass
-        finally:
-            print(i, ' file(s) read')
+    print(i, ' file(s) read')
   
     df = pd.DataFrame(data)
     df.columns = ['date', 'text']
