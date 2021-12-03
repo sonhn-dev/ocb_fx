@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import re
+
 def load_files(urls):
     """ Load txt files to dataframe """
 
