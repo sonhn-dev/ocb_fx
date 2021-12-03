@@ -11,7 +11,7 @@ def load_files(dir):
         filepath = os.path.sep.join(dir, filename)
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
-            with file = open(filepath, encoding='utf-8'):
+            with open(filepath, encoding='utf-8') as file:
                 for line in file:
                     data.append((date, line))
         except:
