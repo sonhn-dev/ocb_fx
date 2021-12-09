@@ -1,0 +1,927 @@
+,date,trader,bank,time,text,label
+0,2021-11-12,Tran Hong Quan,Vietnam Bond Market Association,09:00:06,Good morning anh/chị. VBMA xin gửi swap date tham khảo. Morning session	 	 	 	 . Trade date	12-Nov-21	 	 	 . Start date	12-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	15-Nov-21	Mon	3	 . 1w	19-Nov-21	Fri	7	 . 2w	26-Nov-21	Fri	14	 . 1m	10-Dec-21	Fri	28	 . 2m	12-Jan-22	Wed	61	 . 3m	11-Feb-22	Fri	91	 . 6m	12-May-22	Thu	181	 . 9m	12-Aug-22	Fri	273	 . 12m	11-Nov-22	Fri	364	 .  	 	 	 	 .  	 	 	 	 . Afternoon session	 	 	 	 . Trade date	12-Nov-21	 	 	 . Start date	15-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	16-Nov-21	Tue	1	 . 1w	22-Nov-21	Mon	7	 . 2w	29-Nov-21	Mon	14	 . 1m	15-Dec-21	Wed	30	 . 2m	14-Jan-22	Fri	60	 . 3m	15-Feb-22	Tue	92	 . 6m	13-May-22	Fri	179	 . 9m	15-Aug-22	Mon	273	 . 12m	15-Nov-22	Tue	365	 . VBMA xin gửi anh chị giá phiên sáng 12/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.85/1.10	0.85/1.10	0.85/1.10. LPB	0.70/0.75	0.70/0.75	0.70/0.75	0.70/0.75	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.68/0.73	0.68/0.73	0.68/0.73	0.70/0.75	0.70/0.90	0.90/1.10	0.90/1.05	0.90/1.05	0.90/1.05. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.95/1.15	0.95/1.15	0.95/1.15	0.95/1.15. HDB	0.65/0.85	0.65/0.85	0.70/0.90	0.70/0.90	0.75/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.63/0.73	0.65/0.75	0.65/0.75	0.68/0.78	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.78	0.65/0.78	0.68/0.80	0.70/0.90	0.80/1.00	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.70/0.80	0.70/0.80	0.70/0.80	0.70/0.85	0.80/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.63/0.73	0.63/0.73	0.68/0.78	0.70/0.90	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10,ignore
+1,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:00:17,sell VPB ON nhé,hit
+2,2021-11-12,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:00:23,done a vũ,confirm
+3,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:00:26,sell VP ON,hit
+4,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:00:26,offer 1m 0.78,offer
+5,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:00:27,50u nhé ,hit
+6,2021-11-12,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:00:28,e 50u nhé,hit
+7,2021-11-12,Trinh Duc An,Sea Bank,09:00:33,0.65 0.75 1m,hit
+8,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:00:33,tks bro,ignore
+9,2021-11-12,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:00:35,a K 30 nhé a,hit
+10,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:00:37,Sell VP ON,hit
+11,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:00:41,done em 30u,confirm
+12,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:00:44,offer 1m 0.725,offer
+13,2021-11-12,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:00:46,sell VP ON 10u,hit
+14,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:00:50,30u nhé a Trung,hit
+15,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:00:59,bid 6m 0.95 tách chân,bid
+16,2021-11-12,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:01:00,Khánh Hưng 10 each nhé,hit
+17,2021-11-12,Le Trung Hieu,Asia Commercial Bank,09:01:08,offer 1w 0.72,offer
+18,2021-11-12,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:01:14,tks anh Trung nha,ignore
+19,2021-11-12,Le Trung Hieu,Asia Commercial Bank,09:01:17,sqr,ignore
+20,2021-11-12,Pham Manh Duc,An Binh Commercial JS Bank,09:01:17,bid 1w 0.7 ,bid
+21,2021-11-12,Do Hong Ngoc,An Binh Commercial JS Bank,09:01:18,bid ON -1w 0.7 ,bid
+22,2021-11-12,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:01:18,VIB 50 ACB 30 EIB MSB 10 each,
+23,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:01:29,don a Trung,confirm
+24,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:02:06,done em. sell Ngoc 9u ON,
+25,2021-11-12,Do Hong Ngoc,An Binh Commercial JS Bank,09:02:12,done a Kiên,confirm
+26,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:02:29,sell Ngọc SPT nhé,hit
+27,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:02:33,sell chị Ngọc 20u ON nhé,hit
+28,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:02:38,"ON đi, SPT chưa đc tính",
+29,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:02:41,thk em,ignore
+30,2021-11-12,Do Hong Ngoc,An Binh Commercial JS Bank,09:02:42,buy a Vũ 30u,hit
+31,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:02:53,done Ngọc,confirm
+32,2021-11-12,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:02:53,bid 1w 0.7,bid
+33,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:02:57,a tks nhé,ignore
+34,2021-11-12,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:03:26,buy EIB 1w 0.73 20u,hit
+35,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:03:34,sell a Minh 1w ,hit
+36,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:03:42,sell a MInh 1w ,hit
+37,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:03:55,done a Mimi nhé,confirm
+38,2021-11-12,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:03:55,0.975 1.0 1y,hit
+39,2021-11-12,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:03:55,"đợi tí, Anh cần 20u à",hit
+40,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:04:01,e tks ạ,ignore
+41,2021-11-12,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:04:12,done Khánh only. tkssss anh em,confirm
+42,2021-11-12,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:04:24,buy a vũ với đạt . 25u each 1w 0.7 nhé ,hit
+43,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:04:24,done a Tiệp 50u nhé,confirm
+44,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:04:25,done Tiệp 30 nhé,confirm
+45,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:04:31,0.73,hit
+46,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:04:31,ah okie 25u,confirm
+47,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:04:37,0.7 đâu ,ignore
+48,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:04:38,0.73 mà ,hit
+49,2021-11-12,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:04:38,cần total 50 thôi 2 ae chia vậy ,hit
+50,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:05:10,a Tiệp xem nhầm giá k nhé,ignore
+51,2021-11-12,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:05:27,uhm a nhìn nhầm. nhưng vẫn done nhé,confirm
+52,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:05:31,okie em,confirm
+53,2021-11-12,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:05:36,25u each 0.73 . tks 2 ae ,hit
+54,2021-11-12,Le Lam Thinh,Orient Commercial Bank,09:06:01,sell a Tiệp 20u 1w 0.73 ifsuit,hit
+55,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:06:02,tks man,ignore
+56,2021-11-12,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:06:18,1w offer 0.73,offer
+57,2021-11-12,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:06:27,offer 1w 0.73. offer ON 0.7,offer
+58,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:06:44,buy lun LInh 25u . ON,hit
+59,2021-11-12,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:06:52,1yr 0.9 1.0,hit
+60,2021-11-12,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:06:54,"done Đạt nhé, Linh tks ",confirm
+61,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:07:24,offer 1w 0.72,offer
+62,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:07:26,bid 1y 0.975 tách chân,bid
+63,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:07:26,total 31u Linh nhé,hit
+64,2021-11-12,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:07:35,done Đạt 31u ON ,confirm
+65,2021-11-12,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:07:38,bid 1w 0.65,bid
+66,2021-11-12,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:07:40,ukie,confirm
+67,2021-11-12,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:08:00,1yr 0.9 1.0 cfm swap,hit
+68,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:08:08,bid 7m 0.975 ,bid
+69,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:08:19,sell chi Ha neu la swap,hit
+70,2021-11-12,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:08:21,bid 0.95 1yr cfm swap ,bid
+71,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:08:31,c làm tách chân nhé,ignore
+72,2021-11-12,Tran Thi Ngoc Thuy,Tien Phong Bank,09:08:32,buy Kiên swap,hit
+73,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:08:35,vay nothing nhe chi,ignore
+74,2021-11-12,Le Lam Thinh,Orient Commercial Bank,09:08:46,offer on-spt 0.7,offer
+75,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:08:56,done chi Thuy 20u. 7m,confirm
+76,2021-11-12,Nguyen Viet Anh,HDBank,09:09:01,bid on 0.65 25u ,bid
+77,2021-11-12,Tran Thi Ngoc Thuy,Tien Phong Bank,09:09:07,done e,confirm
+78,2021-11-12,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:09:21,offer ON spt 0.7,offer
+79,2021-11-12,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:09:33,bid spot 0.65 ,bid
+80,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:09:46,bid 6m 0.95,bid
+81,2021-11-12,Le Lam Thinh,Orient Commercial Bank,09:09:57,sqr,ignore
+82,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:10:13,offer 1m 0.75,offer
+83,2021-11-12,Trinh Duc An,Sea Bank,09:10:36,0.625 0.725 1m,hit
+84,2021-11-12,Tran Thi Ngoc Thuy,Tien Phong Bank,09:10:47,"Kiên ơi c đổi 9m nhé, tks e",hit
+85,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:11:04,da ok 9m cung dc chi. thk chi,confirm
+86,2021-11-12,Tran Thi Ngoc Thuy,Tien Phong Bank,09:11:05,ukie tks e,confirm
+87,2021-11-12,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:11:10,sell HD 25u ON ạ,hit
+88,2021-11-12,Nguyen Viet Anh,HDBank,09:11:25,"done Việt nha, chị tks ",confirm
+89,2021-11-12,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:11:32,e cam on nha,ignore
+90,2021-11-12,Tran Thi Ngoc Thuy,Tien Phong Bank,09:13:47,bid 6m tom 0.975,bid
+91,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:14:21,offer 2w 0.7,offer
+92,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:14:29,bid 2w 0.68,bid
+93,2021-11-12,Vu Ha Tuan,Vietnam International Bank,09:15:24,bid ON 0.65,bid
+94,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:16:36,sell chi Thuy 15u 6m rom nua nhe. *tom,hit
+95,2021-11-12,Tran Thi Ngoc Thuy,Tien Phong Bank,09:16:55,ok done Kiên,confirm
+96,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:17:07,done thk chi,confirm
+97,2021-11-12,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:18:10,offer ON SPT 0.7 ,offer
+98,2021-11-12,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:18:29,bid on/spot 0.65 ,bid
+99,2021-11-12,Le Lam Thinh,Orient Commercial Bank,09:20:31,3m pls,hit
+100,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:21:03,0.9/1.1,hit
+101,2021-11-12,Le Lam Thinh,Orient Commercial Bank,09:21:13,e tks,ignore
+102,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:22:17,sell ACB 2w 0.68 ,hit
+103,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:22:28,done chi 20u,confirm
+104,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:22:41,tks e,ignore
+105,2021-11-12,Kien Nguyen Khac,Asia Commercial Bank,09:22:44,da thk chi,ignore
+106,2021-11-12,Trinh Duc An,Sea Bank,09:23:06,buy 2w 0.68,hit
+107,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:23:12,done An 20u,confirm
+108,2021-11-12,Trinh Duc An,Sea Bank,09:23:19,50 luôn nhé ạ,hit
+109,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:29:28,20u nhé . c hết . done An 50u nhé. c mới có thêm,confirm
+110,2021-11-12,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:30:00,done Hà nhé . total là 50  hay 70 thế ,confirm
+111,2021-11-12,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:30:12,total 55u nhé Đạt,hit
+112,2021-11-12,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:30:20,ukie . tớ tks ,confirm
+113,2021-11-12,Tran Hong Quan,Vietnam Bond Market Association,14:00:05,VBMA xin gửi anh/chị fixing hnay 12/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.85/1.10	0.85/1.10	0.85/1.10. LPB	0.70/0.75	0.70/0.75	0.70/0.75	0.70/0.75	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.63/0.73	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.68/0.73	0.68/0.73	0.68/0.73	0.70/0.75	0.70/0.90	0.90/1.10	0.90/1.05	0.90/1.05	0.98/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.95/1.15	0.95/1.15	0.95/1.15. HDB	0.65/0.85	0.65/0.85	0.70/0.90	0.70/0.90	0.75/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.63/0.73	0.65/0.75	0.65/0.75	0.68/0.78	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	0.90/1.00. TPB	0.65/0.78	0.65/0.78	0.68/0.80	0.70/0.90	0.80/1.00	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.70/0.80	0.70/0.80	0.70/0.80	0.70/0.85	0.80/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.63/0.73	0.63/0.73	0.68/0.78	0.70/0.90	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. Fixing*	0.706%	0.707%	0.718%	0.735%	0.836%	1.000%	1.000%	1.000%	0.997%. Yesterday	0.708%	0.718%	0.728%	0.754%	0.857%	1.025%	1.003%	1.003%	1.003%. Change	-0.002%	-0.011%	-0.010%	-0.019%	-0.021%	-0.025%	-0.002%	-0.002%	-0.005%. VBMA xin gửi anh/chị giá phiên chiều 12/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.68/0.73	0.68/0.73	0.68/0.73	0.70/0.75	0.70/0.90	0.90/1.10	0.90/1.05	0.90/1.05	0.98/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.60/0.70	0.63/0.73	0.63/0.73	0.65/0.75	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.75	0.65/0.78	0.68/0.78	0.68/0.78	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.70/0.80	0.70/0.85	0.80/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.63/0.73	0.65/0.75	0.68/0.75	0.70/0.90	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10,ignore
+114,2021-11-12,Nguyen Viet Anh,HDBank,14:00:28,Bid on 0.6 20u ,bid
+115,2021-11-12,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,14:00:40,bid on/spot 0.65 ,bid
+116,2021-11-12,Vu Ha Tuan,Vietnam International Bank,14:00:49,sell LV TN 1w tom 30u each nhé,hit
+117,2021-11-12,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:01:01,done a Vũ. em tkss,confirm
+118,2021-11-12,Pham Manh Duc,An Binh Commercial JS Bank,14:01:01,sell lvbt vp 20 each 1m tom 0.7,hit
+119,2021-11-12,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:01:15,done a Đức,confirm
+120,2021-11-12,Pham Manh Duc,An Binh Commercial JS Bank,14:01:34,dạ e tks . done a,confirm
+121,2021-11-12,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:01:43,0.65 0.85 1m,hit
+122,2021-11-12,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,14:02:53,done ABB 20 mio 1m nhé,confirm
+123,2021-11-12,Pham Manh Duc,An Binh Commercial JS Bank,14:03:06,dạ done a. e tks ạ,confirm
+124,2021-11-15,Pham Manh Duc,An Binh Commercial JS Bank,14:03:06,15/11/2021,ignore
+125,2021-11-15,Tran Hong Quan,Vietnam Bond Market Association,09:00:18,Good morning anh/chị. VBMA xin gửi swap date tham khảo. Morning session	 	 	 	 . Trade date	15-Nov-21	 	 	 . Start date	15-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	16-Nov-21	Tue	1	 . 1w	22-Nov-21	Mon	7	 . 2w	29-Nov-21	Mon	14	 . 1m	15-Dec-21	Wed	30	 . 2m	14-Jan-22	Fri	60	 . 3m	15-Feb-22	Tue	92	 . 6m	13-May-22	Fri	179	 . 9m	15-Aug-22	Mon	273	 . 12m	15-Nov-22	Tue	365	 .  	 	 	 	 .  	 	 	 	 . Afternoon session	 	 	 	 . Trade date	15-Nov-21	 	 	 . Start date	16-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	17-Nov-21	Wed	1	 . 1w	23-Nov-21	Tue	7	 . 2w	30-Nov-21	Tue	14	 . 1m	16-Dec-21	Thu	30	 . 2m	14-Jan-22	Fri	59	 . 3m	16-Feb-22	Wed	92	 . 6m	16-May-22	Mon	181	 . 9m	16-Aug-22	Tue	273	 . 12m	16-Nov-22	Wed	365	 . VBMA xin gửi giá phiên sáng 15/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.70/0.75	0.70/0.90	0.90/1.10	0.90/1.05	0.90/1.05	0.97/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.75	0.65/0.78	0.68/0.78	0.68/0.78	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.05	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.62/0.72	0.63/0.73	0.67/0.77	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10,ignore
+126,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:00:24,sell LV On,hit
+127,2021-11-15,Tran Thi Ngoc Thuy,Tien Phong Bank,09:00:24,sell LV,hit
+128,2021-11-15,Le Lam Thinh,Orient Commercial Bank,09:00:31,sell LV ON,hit
+129,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:00:31,sell LV ON,hit
+130,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:00:41,60u nha,hit
+131,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:00:59,done ae ,confirm
+132,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:01:01,100u nhé a Đạt,hit
+133,2021-11-15,Le Lam Thinh,Orient Commercial Bank,09:01:08,done a Đạt 34u ON,confirm
+134,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:01:08,e tks ,ignore
+135,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:01:21,ukie ,confirm
+136,2021-11-15,Le Lam Thinh,Orient Commercial Bank,09:01:23,e tks,ignore
+137,2021-11-15,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:01:38,1w bid 0.7 ,bid
+138,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:01:45,1W	2W	1M. 0.70	0.70	0.70. 0.73	0.73	0.73,
+139,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:01:53,bid 1w 0.68,bid
+140,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:02:05,tks a Đạt,ignore
+141,2021-11-15,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:02:20,offer ON 0.7,offer
+142,2021-11-15,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:02:25,spt bid 0.65,bid
+143,2021-11-15,Nguyen Hoang Tan,Orient Commercial Bank,09:02:39,sell a Đạt thêm 10u ON nữa if suit ,hit
+144,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:02:59,uh done OCB ,confirm
+145,2021-11-15,Trinh Duc An,Sea Bank,09:02:59,sell lvbt 2w 50u 0.7,hit
+146,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:03:04,done seav,confirm
+147,2021-11-15,Nguyen Hoang Tan,Orient Commercial Bank,09:03:04,done a,confirm
+148,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:03:10,spt 1w bid 0.68,bid
+149,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:03:12,done Linh 50u ON 0.7 nữa nhé,confirm
+150,2021-11-15,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:03:23,done Đạt nhé . Linh tks ,confirm
+151,2021-11-15,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:03:35,ON 1w bid 0.7,bid
+152,2021-11-15,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:03:43,sell a Trung 1w. 30u nhé ạ,hit
+153,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:03:49,buy LV 1w,hit
+154,2021-11-15,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:03:57,done QA nhé,confirm
+155,2021-11-15,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:03:59,done c Thảo,confirm
+156,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:04:06,40u nha em,hit
+157,2021-11-15,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:04:14,uki chị,confirm
+158,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:04:30,sell VP ON. 25u ạ,hit
+159,2021-11-15,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:04:35,oki TP,confirm
+160,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:04:42,tk iu,ignore
+161,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:04:54,sell VP 30u ON nhé ạ,hit
+162,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:05:24,offer 1m 0.72,offer
+163,2021-11-15,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:05:31,sell anh Trung ON 15u,hit
+164,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:05:55,bid 1w 0.7,bid
+165,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:06:27,bid 1m 0.7,bid
+166,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:07:48,offer 1m 0.71 20u ạ,offer
+167,2021-11-15,Le Lam Thinh,Orient Commercial Bank,09:08:01,3m tom pls,hit
+168,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:08:21,buy Hoa,hit
+169,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:08:26,dạ em tks chị,ignore
+170,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:08:44,bid 1m 0.71,bid
+171,2021-11-15,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:09:05,done K với H nhé,confirm
+172,2021-11-15,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:09:12,buy Hòa 1m if suit,hit
+173,2021-11-15,Trinh Duc An,Sea Bank,09:09:22,1m ofer 0.725,offer
+174,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:11:13,có 1m 0.72 cho QA,hit
+175,2021-11-15,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:11:34,oki bạn. 11u nhé,confirm
+176,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:11:42,okee tks bạn nha,confirm
+177,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:12:13,bid spt 1w 0.7,bid
+178,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:12:24,sell Thảo spt ,hit
+179,2021-11-15,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:12:27,done anh Trung em tks,confirm
+180,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:12:31,sell c Thảo spt,hit
+181,2021-11-15,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:12:33,sell chị Thảo spt,hit
+182,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:12:39,done a Trung. e tks nhé,confirm
+183,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:12:46,done TCB MSB 20u each ạ,confirm
+184,2021-11-15,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:12:52,bid spot 0.67 ,bid
+185,2021-11-15,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:12:52,done em tks,confirm
+186,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:12:56,acb nữa chị ơi,
+187,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:13:00,tks e,ignore
+188,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:13:05,ACB 10u ạ:D ,hit
+189,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:13:10,:D. em tks chị,ignore
+190,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:14:28,bid spt 0.7 ,bid
+191,2021-11-15,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:14:34,sell anh Vũ 10u ,hit
+192,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:14:39,done Linh nhé,confirm
+193,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:14:45,bid 1w 2w 0.7,bid
+194,2021-11-15,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:14:58,"done anh Vũ, em tks ",confirm
+195,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:21:16,sell a Minh 2w 20u nhé ạ ,hit
+196,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:21:24,oki done,confirm
+197,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:21:27,tks ô anh ,ignore
+198,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:21:28,tksss em,ignore
+199,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:22:17,2m pls ạ,hit
+200,2021-11-15,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:22:31,0.75 0.85,hit
+201,2021-11-15,Pham Dinh Hoa,Asia Commercial Bank,09:22:47,offer 2m 0.85,offer
+202,2021-11-15,Minh Hoang Nguyen,Vietnam Export - Import Bank,09:23:29,ofer 2m 0.8,offer
+203,2021-11-15,Do Thi Van Anh,Orient Commercial Bank,09:23:40,bid 3m 0.88 nyc ơi,bid
+204,2021-11-15,Trinh Duc An,Sea Bank,09:23:52,sell lvbt 1m 0.72,hit
+205,2021-11-15,Minh Hoang Nguyen,Vietnam Export - Import Bank,09:24:11,8.8 cũng ko sell nhé,
+206,2021-11-15,Do Thi Van Anh,Orient Commercial Bank,09:24:33,điêu,ignore
+207,2021-11-15,Minh Hoang Nguyen,Vietnam Export - Import Bank,09:25:45,"tùy. tiền bạc ko quan trọng mấy, quan trọng là phải chân thành nhé babe",ignore
+208,2021-11-15,Trinh Duc An,Sea Bank,09:25:57,bid 2m  0.7 chân thành,bid
+209,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:26:12,"nothing a An nhé, bên e xong rùi",ignore
+210,2021-11-15,Minh Hoang Nguyen,Vietnam Export - Import Bank,09:27:24,riêng DA thì choice 10u 2m 0.77 . chân thành đến thế là cùng,hit
+211,2021-11-15,Trinh Duc An,Sea Bank,09:27:32,buy anh. (Y),hit
+212,2021-11-15,Minh Hoang Nguyen,Vietnam Export - Import Bank,09:27:39,:D . okey. nothing 9 pm,confirm
+213,2021-11-15,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:28:44,offer ON 0.65,offer
+214,2021-11-15,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:28:58,buy. e xin 15u nhé c,hit
+215,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:29:13,buy ON,hit
+216,2021-11-15,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:29:16,ah 25u if ok,confirm
+217,2021-11-15,Nguyen Viet Anh,HDBank,09:29:19,bid 1w 0.7,bid
+218,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:29:30,em xin 20u ạ,hit
+219,2021-11-15,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:29:33,buy Thảo ON,hit
+220,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:30:02,sell VA 1w nhé,hit
+221,2021-11-15,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:30:04,"done Khánh 15u, thảo 20u nhé",confirm
+222,2021-11-15,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:30:07,1y pls ,hit
+223,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:30:07,20u nhé ,hit
+224,2021-11-15,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:30:12,em còn 15u chị hằng ạ ,hit
+225,2021-11-15,Dong Thi Thao,An Binh Commercial JS Bank,09:30:12,em tks chị ,ignore
+226,2021-11-15,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:30:29,bid 1yr tom 0.98 10u ,bid
+227,2021-11-15,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:30:34,oki c Thao,confirm
+228,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:30:42,1yr 0.9 1.0,hit
+229,2021-11-15,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:31:18,bid on 0.65 . done Thảo nha,confirm
+230,2021-11-15,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:31:25,dạ em tks ja ,ignore
+231,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:31:45,buy Minh cf tách chân nhé. 1y,hit
+232,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:31:55,dạ em cfm swap ,
+233,2021-11-15,Nguyen Viet Anh,HDBank,09:32:02,done anh Vũ 60u 1w nhé ạ ,confirm
+234,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:32:06,hết tách dc rùi:D,ignore
+235,2021-11-15,Vu Ha Tuan,Vietnam International Bank,09:32:18,"20u nhé VA ơi, a còn thế thui. tks em ",hit
+236,2021-11-15,Nguyen Viet Anh,HDBank,09:32:24,"dạ done anh ạ, em tks ạ ",confirm
+237,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:32:35,uh vậy nothing nhé,ignore
+238,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:33:35,vâng chị. 1yr tod tom 0.9 1.0 cfm swap,hit
+239,2021-11-15,Do Hong Ngoc,An Binh Commercial JS Bank,09:40:52,offer 1yr 1.0 tod,offer
+240,2021-11-15,Tran Hong Quan,Vietnam Bond Market Association,14:00:10,VBMA xin gửi fixing ngày hnay 15/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.70/0.75	0.75/0.85	0.90/1.10	0.90/1.05	0.90/1.05	0.97/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.75	0.65/0.78	0.68/0.78	0.68/0.78	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.05	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.62/0.72	0.63/0.73	0.67/0.77	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10. Fixing*	0.701%	0.703%	0.709%	0.719%	0.825%	0.991%	0.989%	0.995%	0.996%. Yesterday	0.706%	0.707%	0.718%	0.735%	0.836%	1.000%	1.000%	1.000%	0.997%. Change	-0.005%	-0.004%	-0.009%	-0.016%	-0.011%	-0.009%	-0.011%	-0.005%	-0.001%. VBMA xin gửi anh/chị giá phiên chiều 15/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.68/0.73	0.80/0.85	0.90/1.10	0.90/1.05	0.90/1.05	0.98/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.72	0.66/0.72	0.68/0.72	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.05	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.60/0.70	0.60/0.70	0.65/0.75	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10,ignore
+241,2021-11-15,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,14:00:37,2m tom bid 0.8,bid
+242,2021-11-15,Vu Ha Tuan,Vietnam International Bank,14:00:38,bid 6m tom 0.95,bid
+243,2021-11-15,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:02:55,"1yr tom offer 1.0, cfm swap",offer
+244,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:03:43,khớp LV 20u ON nhé ạ,
+245,2021-11-15,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,14:03:47,khớp Khánh ON vs 1w nhé,
+246,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:04:19,Thảo ABBK oi ,
+247,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:04:22,à à done a Đạt 10 each nhé,confirm
+248,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:04:25,c bid 12m 1.0 25u,bid
+249,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:04:41,ON-1w 0.65 0.75,hit
+250,2021-11-15,Do Hong Ngoc,An Binh Commercial JS Bank,14:04:45,sell TCB 25u 12m 1.0,hit
+251,2021-11-15,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:04:55,done e,confirm
+252,2021-11-15,Do Hong Ngoc,An Binh Commercial JS Bank,14:06:24,e tks c . bid ON 0.65,bid
+253,2021-11-15,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,14:26:42,buy khánh EIB 20u TN 0.7 nhé,hit
+254,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,14:26:59,sell a Tiệp TN nhé ạ,hit
+255,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:27:06,e để 0.65 0.75 a Tiệp ơi,hit
+256,2021-11-15,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,14:27:16,uhm done TP 50 mio nhé ,confirm
+257,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:27:16,bid SPT 0.65,bid
+258,2021-11-15,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,14:27:18,nothing khánh nhé ,ignore
+259,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,14:27:23,done a 50u ạ,confirm
+260,2021-11-15,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:27:23,okie a,confirm
+261,2021-11-15,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,14:27:32,tk iu a,ignore
+262,2021-11-15,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,14:27:38,tks e ,ignore
+263,2021-11-15,Tran Hong Quan,Vietnam Bond Market Association,15:15:49,VBMA xin gửi giá cuối phiên chiều 15/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.68/0.73	0.80/0.85	0.90/1.10	0.90/1.05	0.90/1.05	0.98/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.72	0.66/0.72	0.68/0.72	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.05	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.65/0.75	0.65/0.75	0.65/0.75	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.1,ignore
+264,2021-11-16,Tran Hong Quan,Vietnam Bond Market Association,15:15:49,"NOVEMBER 16, 2021. Good morning anh/chị. VBMA xin gửi swap date tham khảo . Morning session	 	 	 	 . Trade date	16-Nov-21	 	 	 . Start date	16-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	17-Nov-21	Wed	1	 . 1w	23-Nov-21	Tue	7	 . 2w	30-Nov-21	Tue	14	 . 1m	16-Dec-21	Thu	30	 . 2m	14-Jan-22	Fri	59	 . 3m	16-Feb-22	Wed	92	 . 6m	16-May-22	Mon	181	 . 9m	16-Aug-22	Tue	273	 . 12m	16-Nov-22	Wed	365	 .  	 	 	 	 .  	 	 	 	 . Afternoon session	 	 	 	 . Trade date	16-Nov-21	 	 	 . Start date	17-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	18-Nov-21	Thu	1	 . 1w	24-Nov-21	Wed	7	 . 2w	1-Dec-21	Wed	14	 . 1m	17-Dec-21	Fri	30	 . 2m	17-Jan-22	Mon	61	 . 3m	17-Feb-22	Thu	92	 . 6m	17-May-22	Tue	181	 . 9m	17-Aug-22	Wed	273	 . 12m	17-Nov-22	Thu	365	 . VBMA xin gửi anh/chị giá phiên sáng 16/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.05	0.90/1.05	1.00/1.02. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	0.65/0.85	0.90/1.10	0.80/1.00	0.85/1.05	0.80/1.00. TPB	0.65/0.70	0.66/0.72	0.67/0.72	0.66/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.68/0.73	0.68/0.73	0.68/0.73	0.68/0.73	0.77/0.82	0.85/1.05	0.85/1.05	0.88/1.08	0.88/1.08",ignore
+265,2021-11-16,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:00:27,sell LV on,hit
+266,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:00:31,done Việt,confirm
+267,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:00:32,sell LV 1w,hit
+268,2021-11-16,Trinh Duc An,Sea Bank,09:00:34,sell lvbt 100u 2w,hit
+269,2021-11-16,Nguyen Viet Anh,HDBank,09:00:39,sell LV on ,hit
+270,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:00:41,30u nhé QA,hit
+271,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:00:42,done a Khánh,confirm
+272,2021-11-16,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:00:46,45u nhé a zai,hit
+273,2021-11-16,Nguyen Viet Anh,HDBank,09:00:48,20u nha Q.A ơi ,hit
+274,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:00:56,on 1w bid 0.7 ,bid
+275,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:00:58,sell msb 25u 1yr 1.0,hit
+276,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:00:59,khớp a Mimi 30u 1y nhé a,
+277,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:01:03,dạ done chị:D,confirm
+278,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:01:12,oki MSB. a tksss,confirm
+279,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:01:16,done a An lun ạ,confirm
+280,2021-11-16,Pham Dinh Hoa,Asia Commercial Bank,09:01:26,bid 2w 0.68,bid
+281,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:01:32,oki c Ngoc,confirm
+282,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:01:39,buy anh Minh 1yr 1.0 if suit,hit
+283,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:01:44,c tks  ,ignore
+284,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:01:44,buy a An 2w nhé,hit
+285,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:01:51,sell a Tiep 20u 1w,hit
+286,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:01:52,MB 20u nhé,hit
+287,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:01:54,110u nhé a ,hit
+288,2021-11-16,Trinh Duc An,Sea Bank,09:01:55,done exim 100u,confirm
+289,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:01:58,done anh em tks nhá ,confirm
+290,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:02:01,tksss em,ignore
+291,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:02:03,done khánh 20u ,confirm
+292,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:02:04,110u luôn đi a,hit
+293,2021-11-16,Trinh Duc An,Sea Bank,09:02:07,uh 110,hit
+294,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:02:08,e tkss,ignore
+295,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:02:14,okie a. e tksss ạ,confirm
+296,2021-11-16,Trinh Duc An,Sea Bank,09:02:31,anh lấy 20u 2m luôn nhé Khánh exim,hit
+297,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:02:39,done a nhé,confirm
+298,2021-11-16,Le Lam Thinh,Orient Commercial Bank,09:02:57,bid ON 0.7,bid
+299,2021-11-16,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:03:47,sell ocb. 15u ạ,hit
+300,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:03:55,buy TP ON nhé ,hit
+301,2021-11-16,Le Lam Thinh,Orient Commercial Bank,09:03:58,"done Việt, a tks",confirm
+302,2021-11-16,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:04:12,e vừa hết a ạ,hit
+303,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:04:43,bid ON 0.7,bid
+304,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:04:54,1yr 0.95 1.05,hit
+305,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:05:02,on-1w 0.7 0.75 ,hit
+306,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:05:23,sell MB 1yr 1.0 20u ,hit
+307,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:05:36,"done Ngọc 20u nhé, tớ tks ",confirm
+308,2021-11-16,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:06:08,bid 7m 0.95,bid
+309,2021-11-16,Trinh Duc An,Sea Bank,09:06:28,ofer 2w 0.7,offer
+310,2021-11-16,Le Lam Thinh,Orient Commercial Bank,09:06:37,bid ON 0.7,bid
+311,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:06:51,ON - 1w bid 0.7,bid
+312,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:07:11,buy seav 2w 0.7 25u ,hit
+313,2021-11-16,Trinh Duc An,Sea Bank,09:07:21,done abb,confirm
+314,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:09:13,buy An 20u 2w,hit
+315,2021-11-16,Trinh Duc An,Sea Bank,09:09:36,ok anh,confirm
+316,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:09:42,tksss man,ignore
+317,2021-11-16,Kien Nguyen Khac,Asia Commercial Bank,09:10:15,sell LV 1w 25u,hit
+318,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:10:20,done a Kiên ạ,confirm
+319,2021-11-16,Kien Nguyen Khac,Asia Commercial Bank,09:10:24,done em,confirm
+320,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:10:28,em tkss,ignore
+321,2021-11-16,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:10:38,buy a Kiên if suit,hit
+322,2021-11-16,Kien Nguyen Khac,Asia Commercial Bank,09:11:08,a tam het roi Trung,ignore
+323,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:11:12,offer 1yr 1.0 20u ,offer
+324,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:11:16,buy chị,hit
+325,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:11:28,done QA . c tks ,confirm
+326,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:11:31,dạ em tkss,ignore
+327,2021-11-16,Kien Nguyen Khac,Asia Commercial Bank,09:16:44,"Trung con int 1w ko, a sell 15u",hit
+328,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:16:57,done a K ,confirm
+329,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:16:58,buy acb,hit
+330,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:17:03,15u 1w a nhé,hit
+331,2021-11-16,Kien Nguyen Khac,Asia Commercial Bank,09:17:06,done Tiep only. thk em,confirm
+332,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:18:40, e tks a ,ignore
+333,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:19:46,bid 2w 0.7,bid
+334,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:19:52,sell a minh . 20u nhé ,hit
+335,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:19:56,done Tiệp. a tkssss,confirm
+336,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:20:06,buy vp 20u. 2w ạ,hit
+337,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:20:20,oki done nốt ngọc 10u nhé . hết lun ,confirm
+338,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:20:24,e tks ,ignore
+339,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:20:27,sell c Ngoc 10u 2w nhé,hit
+340,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:20:44,c đủ rồi Khánh ơi. c tks nhé,ignore
+341,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:20:49,hơ:D. oki c,confirm
+342,2021-11-16,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:20:49,:),ignore
+343,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:20:51,buy msb 10u 2w nhé,hit
+344,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:20:55,ah oki a Mimi,confirm
+345,2021-11-16,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:20:58,tkssss man,ignore
+346,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:21:02,e tkss,ignore
+347,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:23:57,sell ON LVBT 0.7 20u,hit
+348,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:24:08,done c Ngọc,confirm
+349,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:24:12,c tks ,ignore
+350,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:24:22,dạ em tks,ignore
+351,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:24:23,sell EIBV ON 0.68 15u,hit
+352,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:25:13,done chị Ngọc 10u nhé ạ,confirm
+353,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:25:26,done Khánh. c tks nhé,confirm
+354,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:25:39,ON 0.6 0.7,hit
+355,2021-11-16,Le Lam Thinh,Orient Commercial Bank,09:26:42,buy ON. 29u nhé a Khánh,hit
+356,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:27:42,sell Thịnh ON if suit . 20u nhé ,hit
+357,2021-11-16,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:28:05,buy LInh,hit
+358,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:28:06,done Thịnh 10u nhé,confirm
+359,2021-11-16,Le Lam Thinh,Orient Commercial Bank,09:28:12,done chị Linh nhé,confirm
+360,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:28:15,offer ON 0.7 10u ,offer
+361,2021-11-16,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:28:21,bid on-1w 0.65 ,bid
+362,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:28:25,"done Thịnh, nothing Đạt nhé ",confirm
+363,2021-11-16,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:28:44,done Ngọc 10u ,confirm
+364,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,09:28:56,done Đạt . t tks ,confirm
+365,2021-11-16,Tran Hong Quan,Vietnam Bond Market Association,14:00:17,VBMA xin gửi anh/chị fixing ngày 16/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.70/0.75	0.75/0.85	0.90/1.10	0.90/1.05	0.90/1.05	0.97/1.00. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . TPB	0.65/0.75	0.65/0.78	0.68/0.78	0.68/0.78	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.05	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.62/0.72	0.63/0.73	0.67/0.77	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10. Fixing*	0.701%	0.703%	0.709%	0.719%	0.825%	0.991%	0.989%	0.995%	0.996%. Yesterday	0.706%	0.707%	0.718%	0.735%	0.836%	1.000%	1.000%	1.000%	0.997%. Change	-0.005%	-0.004%	-0.009%	-0.016%	-0.011%	-0.009%	-0.011%	-0.005%	-0.001%. VBMA xin gửi giá phiên chiều 16/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.55/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.70	0.68/0.70	0.68/0.73	0.75/0.85	0.95/1.10	0.90/1.05	0.90/1.05	0.98/1.02. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.70/0.80	0.75/0.90	0.95/1.10	0.95/1.10	0.95/1.10	0.95/1.10. STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	 	 	 	 	 . TPB	0.67/0.72	0.67/0.72	0.67/0.72	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.65/0.75	0.65/0.75	0.65/0.75	0.67/0.77	0.75/0.85	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10,ignore
+366,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:02:39,sell LV 50u 2w nhé ạ,hit
+367,2021-11-16,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,14:03:10,done e,confirm
+368,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:03:23,khớp MSBI 10 each 1w 2w nhé ạ,
+369,2021-11-16,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:03:24,dạ e tks nhé,ignore
+370,2021-11-16,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,14:03:29,oki QA,confirm
+371,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:03:32,em tkss,ignore
+372,2021-11-16,Do Hong Ngoc,An Binh Commercial JS Bank,14:06:02,offer 1yr tod 1.0,offer
+373,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:06:17,done MB 20u ON 0.7 I buy nhé ạ,confirm
+374,2021-11-16,Dao Le Linh Le,Military Commercial Joint Stock Bank,14:06:26,"done QA nhé, chị tks ",confirm
+375,2021-11-16,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:06:31,dạ em tkss,ignore
+376,2021-11-16,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:10:43,bid 7m tom 0.95,bid
+377,2021-11-16,Kien Nguyen Khac,Asia Commercial Bank,14:10:55,offer 9m 1.0,offer
+378,2021-11-16,Tran Hong Quan,Vietnam Bond Market Association,14:29:48,Hi anh/ chị. VBMA xin gửi lại fixing ngày hôm nay 16/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.10	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.60/0.75	0.60/0.75	0.60/0.80	0.65/0.85	0.70/0.90	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.75	0.68/0.73	0.68/0.73	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.05	0.90/1.05	1.00/1.02. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.65/0.85	0.65/0.85	0.65/0.85	0.65/0.85	0.70/1.00	 	0.90/1.15	0.90/1.15	0.90/1.15. OCB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.65/0.75	0.65/0.75	0.65/0.75	0.65/0.75	0.75/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	0.65/0.85	0.90/1.10	0.80/1.00	0.85/1.05	0.95/1.05. TPB	0.65/0.70	0.66/0.72	0.67/0.72	0.66/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.70/0.75	0.70/0.75	0.65/0.75	0.65/0.80	0.80/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.68/0.73	0.68/0.73	0.68/0.73	0.68/0.73	0.77/0.82	0.85/1.05	0.85/1.05	0.88/1.08	0.88/1.08. Fixing*	0.700%	0.701%	0.701%	0.707%	0.820%	0.994%	0.981%	0.990%	0.997%. Yesterday	0.701%	0.703%	0.709%	0.719%	0.825%	0.991%	0.989%	0.995%	0.996%. Change	-0.001%	-0.002%	-0.007%	-0.012%	-0.005%	0.004%	-0.007%	-0.005%	0.001%. Do sơ suất sáng nay em copy nhầm bảng. File fixing trong email gửi dealer và thành viên vào lúc 10h và 10h30 vẫn là thông tin chính xác. . Anh chị correct lại thông tin giúp em với ạ. Em xin lỗi vì sơ suất này ạ.. Em cảm ơn anh/chị.,ignore
+379,2021-11-17,Tran Hong Quan,Vietnam Bond Market Association,14:29:48,"NOVEMBER 17, 2021. Good morning anh/chị. VBMA xin gửi swap date tham khảo. Morning session	 	 	 	 . Trade date	17-Nov-21	 	 	 . Start date	17-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	18-Nov-21	Thu	1	 . 1w	24-Nov-21	Wed	7	 . 2w	1-Dec-21	Wed	14	 . 1m	17-Dec-21	Fri	30	 . 2m	17-Jan-22	Mon	61	 . 3m	17-Feb-22	Thu	92	 . 6m	17-May-22	Tue	181	 . 9m	17-Aug-22	Wed	273	 . 12m	17-Nov-22	Thu	365	 .  	 	 	 	 .  	 	 	 	 . Afternoon session	 	 	 	 . Trade date	17-Nov-21	 	 	 . Start date	18-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	19-Nov-21	Fri	1	 . 1w	25-Nov-21	Thu	7	US Holidays. 2w	2-Dec-21	Thu	14	 . 1m	17-Dec-21	Fri	29	 . 2m	18-Jan-22	Tue	61	 . 3m	18-Feb-22	Fri	92	 . 6m	18-May-22	Wed	181	 . 9m	18-Aug-22	Thu	273	 . 12m	18-Nov-22	Fri	365	 . VBMA xin gửi anh/chị giá phiên sáng 17/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	 	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.70/0.73	0.70/0.73	0.70/0.73	0.70/0.73	 	 	 	 	 . SEAB	0.55/0.70	0.55/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.65/0.70	0.67/0.72	0.68/0.70	0.68/0.73	0.75/0.85	0.95/1.10	0.90/1.05	0.90/1.05	0.95/1.05. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10. OCB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.60/0.70	0.63/0.73	0.65/0.75	0.68/0.78	0.75/0.90	0.95/1.10	0.95/1.10	0.95/1.10	0.95/1.10. STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	 	 	 	 	 . TPB	0.65/0.72	0.67/0.72	0.67/0.72	0.68/0.73	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.60/0.70	0.60/0.70	0.60/0.70	0.65/0.80	0.75/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.65/0.75	0.65/0.75	0.67/0.77	0.67/0.77	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10",ignore
+380,2021-11-17,Nguyen Viet Anh,HDBank,09:01:01,sell LV on ,hit
+381,2021-11-17,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:01:02,sell LV ON ,hit
+382,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:01:04,sell LV 1w 2w 0.7,hit
+383,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:01:04,sell LVBT ON và 1w,hit
+384,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:01:09,bid 2w 3w 0.67,bid
+385,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:01:13,70u 1w 30u 2w nhé,hit
+386,2021-11-17,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:01:17,sell LV 1w ,hit
+387,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:01:21,ON -1w 30 each ,hit
+388,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:01:23,sell LV ON,hit
+389,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:01:26,sell LVBT 1M 0.7,hit
+390,2021-11-17,Ha Hai Nam,Military Commercial Joint Stock Bank,09:01:27,sell LV ON,hit
+391,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:01:37,sell LV 50u 1w nhé ,hit
+392,2021-11-17,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:01:41,sell ON LVBT . 50 mio ,hit
+393,2021-11-17,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:01:50,sell LV 1w ,hit
+394,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:02:00,20u 1m ,hit
+395,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:02:15,30u ON ,hit
+396,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:02:46,sell MSB TPB EIB ON 0.65 30u each,hit
+397,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:02:58,done a Vũ 10u nhé ạ,confirm
+398,2021-11-17,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:03:03,done 10u a Vũ,confirm
+399,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:03:04,okie Khánh,confirm
+400,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:03:06,ON 0.6 0.7,hit
+401,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:03:13,offer ON 0.65,offer
+402,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:03:24,"done VIB, done HD 10u each, MB 10u each, done EIB, VP SEAV 10 each nhé ạ",confirm
+403,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:03:27,done a Vu 10u,confirm
+404,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:03:32,done QA,confirm
+405,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:03:34,bid 2w 0.68,bid
+406,2021-11-17,Nguyen Viet Anh,HDBank,09:03:36,done Q.A 10u on ,confirm
+407,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:03:37,sell,hit
+408,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:03:37,"done QA, a tkss",confirm
+409,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:03:42,a Mimi 20u nhóe,hit
+410,2021-11-17,Nguyen Viet Anh,HDBank,09:03:44,còn 1w có done k QA nhỉ ,ignore
+411,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:03:47,QA done c 1m bn e,confirm
+412,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:03:48,done em,confirm
+413,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:03:50,có done c Việt A ơi,ignore
+414,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:03:53,e tkss,ignore
+415,2021-11-17,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:03:55,done LVBT 10u 1w 0.7 ,confirm
+416,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:03:55,QA done t ON ko nhỉ,ignore
+417,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:03:56,à done c Ngọc 10u nhesa j,confirm
+418,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:03:56,okie Khánh Việt,confirm
+419,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:03:56,a tksss,ignore
+420,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:03:59,c tks,ignore
+421,2021-11-17,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:03:59,TPBank	 ON  	 1W  	 2W  	1M .  Bid 	0.63	0.67	0.67	0.67. Ask	0.66	0.71	0.71	0.72,
+422,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:04:04,Hưng 10u nhé :)),hit
+423,2021-11-17,Nguyen Viet Anh,HDBank,09:04:06,okie done em 10u ON 1u 1w nha ,confirm
+424,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:04:10,sell ON . Phi ,hit
+425,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:04:15,oki t tks,confirm
+426,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:04:17,sell ON TPB,hit
+427,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:04:19,sell ON TP ,hit
+428,2021-11-17,Nguyen Viet Anh,HDBank,09:04:21,sell TP on ,hit
+429,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:04:23,sell 2w TP,hit
+430,2021-11-17,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:04:23,sell TP ON ,hit
+431,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:04:30,biuy VIB ON 0.63. 15u,hit
+432,2021-11-17,Nguyen Viet Anh,HDBank,09:04:36,sell AB ,hit
+433,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:04:40,done ABB 30u,confirm
+434,2021-11-17,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:04:47,done tcbd vib 10u each ạ,confirm
+435,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:04:55,done a Vũ 15u only. e tks ,confirm
+436,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:04:56,20u nhé Viet,hit
+437,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:04:57,okie Việt,confirm
+438,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:04:57,offer ON 0.6,offer
+439,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:04:57,LPB	ON	1W	2W	1M. Bid	0.6	0.6	0.6	0.6. Ask	0.7	0.7	0.7	0.7,
+440,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:05:05,sell. 0.6 ON,hit
+441,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:05:12,sell msb 1m 0.68,hit
+442,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:05:15,sell ON 0.6,hit
+443,2021-11-17,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:05:15,done a Khánh  5u,confirm
+444,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:05:16,done Hưng 10u nhé :)),confirm
+445,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:05:17,20u,hit
+446,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:05:18,Bank	Price	ON	1W	2W	1M. VIB	Bid	0.55	0.6	0.6	0.65.  	Ask	0.65	0.7	0.7	0.75,
+447,2021-11-17,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:05:21,5u 2w,hit
+448,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:05:36,ON 0.5 0.7. ok c Ngoc 10u,confirm
+449,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:05:41,EIB/tod	ON	1w	2W	1M . Bid	 0.60 	 0.60 	 0.65 	 0.65 . Ask	 0.70 	 0.70 	 0.75 	 0.75 ,
+450,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:05:42,oki nha QA,confirm
+451,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:05:44,ON 0.5 0.7,hit
+452,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:05:45,bid 2w 0.67,bid
+453,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:05:48,sell EIB,hit
+454,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:05:50,sell anh Khánh exim ON,hit
+455,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:05:51,ON,hit
+456,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:05:51,20u,hit
+457,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:05:51,ACB/tod	 ON  	 1W  	 2W  	1M 	2M 	3M	6M 	9M 	1Y . Bid 	0.55	0.55	0.60	0.60	0.70	 	0.85	0.85	0.85. Ask	0.75	0.75	0.80	0.80	0.90	 	1.05	1.05	1.10,
+458,2021-11-17,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:05:52,sell exim ON ,hit
+459,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:05:58,done chị Hà 10u ,confirm
+460,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:05:59,"done Khánh MSB 10u , c tks",confirm
+461,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:06:01,EIB/tod	ON	1w	2W	1M . Bid	 0.55 	 0.60 	 0.65 	 0.65 . Ask	 0.65 	 0.70 	 0.75 	 0.75 ,
+462,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:06:08,ok e,confirm
+463,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:06:10,MBB	ON	1W	2W	1M . Bid	0.50	0.50	0.55	0.60. Ask	0.70	0.70	0.75	0.80,
+464,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:06:31,e tks ạ. ON 0.5. 0.5 0.7,hit
+465,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:06:48,"bid 1w 0.65, 2w 0.67",bid
+466,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:06:55,sell a Mimi 10u . 2w,hit
+467,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:06:59,oki man,confirm
+468,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:07:07,e tkss,ignore
+469,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:07:12,bid  7m 0.95,bid
+470,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:07:23,offer 9m 1.0,offer
+471,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:07:33,"bid 1w 0.65, 2w 0.67",bid
+472,2021-11-17,Do Thi Van Anh,Orient Commercial Bank,09:07:55,bid 3m 0.95,bid
+473,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:08:21,bid 2m 0.75. offer ON 0.6,
+474,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:08:25,buy,hit
+475,2021-11-17,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:08:29, 	 ON 	  1w 	 2w 	1M. BID	 0.50   	 0.50   	 0.55   	 0.60   . ASK	 0.70   	 0.70   	 0.75   	 0.80   ,
+476,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:08:31,sell chị Ngọc,hit
+477,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:08:32,buy ON 10u ạ,hit
+478,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:08:43,done NGọc 30u nhé ,confirm
+479,2021-11-17,Nguyen Viet Anh,HDBank,09:08:53,sell Hòa ON. 20u em nhé ,hit
+480,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:08:58,cho t xin 15u thôi Linh nhé. t tks,hit
+481,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:09:02,done chị VA 10u ạ. nothing Hung nha,confirm
+482,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:09:03,"done Ngọc, done Hòa nhé ",confirm
+483,2021-11-17,Nguyen Viet Anh,HDBank,09:09:09,"done em, chị tks ",confirm
+484,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:09:11,nothing Hòa ,ignore
+485,2021-11-17,Tran Thi Ngoc Thuy,Tien Phong Bank,09:09:15,offer 1y 1.0 ,offer
+486,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:09:16,dạ chị,ignore
+487,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:09:23,"bid 1w 0.65, 2w 0.67",bid
+488,2021-11-17,Le Lam Thinh,Orient Commercial Bank,09:09:25,OCB	ON	1W	2W	1M. Bid	0.50	0.50	0.60	0.60. Ask	0.70	0.70	0.80	0.80,
+489,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:09:27,offer ON 0.6,offer
+490,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:09:33,bid 6m 0.95. sell a Minh 1w nhé,
+491,2021-11-17,Kien Nguyen Khac,Asia Commercial Bank,09:09:40,6m-1y 0.9-1.0,hit
+492,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:10:06,done Vu. 30u nhe man,confirm
+493,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:10:06,30u nhé anh ,hit
+494,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:10:10,sell tp 1w 0.67. eee,hit
+495,2021-11-17,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:10:14,a tksss,ignore
+496,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:10:15,sell tp 1m 0.67,hit
+497,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:10:31,bid 1yr 0.95,bid
+498,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:10:53,bid 1y 0.975. tách chân,bid
+499,2021-11-17,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:11:20,not suit c Ngọc ạ,ignore
+500,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:11:54,bid 2w 0.66,bid
+501,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:12:08,sell a Khánh. 100u nhé a,hit
+502,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:12:09,done QA,confirm
+503,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:12:13,sell TCB 1yr 20u,hit
+504,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:12:20,"okie e, a tkss",confirm
+505,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:12:28,dạ e tkss,ignore
+506,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:12:31,bid 6m 0.95,bid
+507,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:12:43,done Ngọc,confirm
+508,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:13:19,"vâng, e tks . buy VIB 1w 0.65. 20u",hit
+509,2021-11-17,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:13:34,sell ABBK 20u ,hit
+510,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:13:41,okie Ngọc nhé,confirm
+511,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:13:48,done a Vũ only . e tks,confirm
+512,2021-11-17,Nguyen Viet Anh,HDBank,09:13:50,buy anh Đạt 10u 1w ,hit
+513,2021-11-17,Pham Dinh Hoa,Asia Commercial Bank,09:13:55,offer 2m 0.85,offer
+514,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:13:55,buy a Đạt 30u 1w,hit
+515,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:14:07,sell QA ,hit
+516,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:14:10,offer ON 0.6 10u,offer
+517,2021-11-17,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:14:18,"nothing ABBK . HD, LV 10 each nhé ",hit
+518,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:14:18,sell QA ,hit
+519,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:14:19,20u 1w,hit
+520,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:14:36,done SEAV MSB MB 10 each. em tkss ạ,confirm
+521,2021-11-17,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:14:48,buy ABB 1y if suit. 10 mio 0.975,hit
+522,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:14:56,done a Tiệp. 10u,confirm
+523,2021-11-17,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:14:59,done e a tks ,confirm
+524,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:15:03,done tks QA nha,confirm
+525,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:15:50,done QA nhé ,confirm
+526,2021-11-17,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,09:15:51,Buy Ngoc 20u 1y ,hit
+527,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:15:56,offer 1w 0.65,offer
+528,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:16:36,done msb 20u 1yr. done mbfx 20u 1yr 0.975,confirm
+529,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:16:42,offer ON 0.55 10u,offer
+530,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:16:46,done Ngọc tớ tks nhé ,confirm
+531,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:16:56,buy c Hà,hit
+532,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:17:01,done Ngọc,confirm
+533,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:17:10,20u c nhé,hit
+534,2021-11-17,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:17:15,c có 10u thôi,
+535,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:17:28,"vâng, done c 10u. e tks ạ",confirm
+536,2021-11-17,Nguyen Viet Anh,HDBank,09:18:02,done anh Đạt SEA 10u 1w ở trên nhé ạ ,confirm
+537,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:23:11,done HD 10u 1w 0.65 nhé,confirm
+538,2021-11-17,Nguyen Viet Anh,HDBank,09:23:34,"done chị ạ, em tks ",confirm
+539,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:23:42,sell chị Ngọc 5u 1w nhé ạ,hit
+540,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:23:57,done Khánh. 5u,confirm
+541,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:23:57,dạ e tksss,ignore
+542,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:24:08,er Ngọc cần thêm ko em ,ignore
+543,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:24:19,e đủ rồi ạ. :D,ignore
+544,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:24:27,okie e,confirm
+545,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:29:48,bid ON 0.6,bid
+546,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:29:53,sell,hit
+547,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:29:58,drll. sell,hit
+548,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:29:59,20u nhé QA,hit
+549,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:30:10,"done a Khánh, c Linh 5u nhé ạ",confirm
+550,2021-11-17,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:30:17,oki e,confirm
+551,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:30:24,done em nhé,confirm
+552,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:30:31,dạ em tkss,ignore
+553,2021-11-17,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:30:53,offer ON 0.6 10u,offer
+554,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:42:53,Ngọc ơi nãy chốt done 30u 1w @0.65 nhé,
+555,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,09:43:07,done a Vũ 30u 1w ,confirm
+556,2021-11-17,Vu Ha Tuan,Vietnam International Bank,09:43:11,tks em ,ignore
+557,2021-11-17,Tran Hong Quan,Vietnam Bond Market Association,14:00:20,VBMA xin gửi fixing 17/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 . ACB	0.55/0.75	0.55/0.75	0.60/0.80	0.60/0.80	0.70/0.90	 	0.90/1.00	0.90/1.00	0.90/1.00. LPB	0.60/0.70	0.60/0.70	0.60/0.70	0.60/0.70	 	 	 	 	 . SEAB	0.55/0.70	0.55/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.50/0.70	0.67/0.72	0.68/0.70	0.68/0.73	0.75/0.85	0.95/1.10	0.90/1.05	0.90/1.05	0.95/1.05. TCB	0.60/0.80	0.60/0.80	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. HDB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10. OCB	0.50/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.75/0.95	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VIB	0.55/0.65	0.60/0.70	0.60/0.70	0.65/0.75	0.75/0.90	0.95/1.10	0.95/1.10	0.95/1.10	0.95/1.10. STB	0.55/0.75	0.55/0.75	0.55/0.75	0.55/0.75	 	 	 	 	 . TPB	0.63/0.66	0.67/0.71	0.67/0.71	0.67/0.72	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.75/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.50/0.70	0.60/0.70	0.65/0.75	0.65/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10. Fixing*	0.637%	0.654%	0.677%	0.696%	0.814%	1.000%	0.989%	0.993%	0.995%. Yesterday	0.700%	0.701%	0.701%	0.707%	0.820%	0.994%	0.981%	0.990%	0.997%. Change	-0.063%	-0.047%	-0.024%	-0.010%	-0.007%	0.006%	0.007%	0.003%	-0.002%. VBMA xin gửi anh/chị giá phiên chiều 17/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.40/0.70	0.40/0.70	0.40/0.70	0.40/0.70	 	 	 	 	 . ACB	0.40/0.70	0.55/0.75	0.60/0.75	0.60/0.75	0.70/0.85	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.63/0.65	0.63/0.68	0.63/0.68	0.65/0.70	 	 	 	 	 . SEAB	0.55/0.70	0.55/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	0.85/1.10	0.85/1.10	0.85/1.10. MSB	0.55/0.65	0.60/0.65	0.63/0.68	0.63/0.68	0.75/0.80	0.95/1.10	0.90/1.05	0.90/1.05	0.95/1.00. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.75/0.95	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.40/0.70	0.50/0.75	0.60/0.80	0.65/0.85	0.70/1.00	 	0.90/1.10	0.90/1.10	0.90/1.10. OCB	0.40/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. MBB	0.50/0.70	0.50/0.70	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.45/0.65	0.60/0.70	0.60/0.70	0.63/0.73	0.75/0.90	0.90/1.05	0.90/1.05	0.90/1.05	0.90/1.05. STB	0.40/0.70	0.40/0.70	0.40/0.70	0.40/0.70	 	 	 	 	 . TPB	0.58/0.63	0.62/0.66	0.63/0.68	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.40/0.60	0.60/0.70	0.60/0.70	0.63/0.73	0.70/0.90	0.85/1.05	0.85/1.05	0.90/1.10	0.90/1.10,ignore
+558,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:01:29,sell LV 20u TN 63 nhé. TN 0.55 0.65,hit
+559,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,14:01:42,sell LVBT 50u TN nhé ,hit
+560,2021-11-17,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,14:02:32,done EIB MB nhé ạ,confirm
+561,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:02:45,done Đức. a tksss,confirm
+562,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,14:02:54,"done Đức, chị tks nhé",confirm
+563,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,14:03:20,sell VIBH 6m 30u 0.95 ,hit
+564,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:03:29,done ABB nhé,confirm
+565,2021-11-17,Kien Nguyen Khac,Asia Commercial Bank,14:03:30,sell VIBH 6m 10u 0.95,hit
+566,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:03:34,done a Kiên,confirm
+567,2021-11-17,Kien Nguyen Khac,Asia Commercial Bank,14:03:37,thk em,ignore
+568,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:04:01,offer 1w tom 0.65,offer
+569,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,14:04:48,sell hd 1m 0.62 tom 20u. eeee. 1m 0.65,hit
+570,2021-11-17,Tran Thi Ngoc Thuy,Tien Phong Bank,14:05:28,sell Vũ VIB ,hit
+571,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:05:55,done chị Thúy ạ . 50u chị nhé,confirm
+572,2021-11-17,Tran Thi Ngoc Thuy,Tien Phong Bank,14:06:10,ok e,confirm
+573,2021-11-17,Huynh Nhat Khanh,Vietnam Export - Import Bank,14:06:15,EIB/tom	ON	1w	2W	1M. Bid	 0.55 	 0.58 	 0.60 	 0.60 . Ask	 0.65 	 0.68 	 0.70 	 0.70 ,
+574,2021-11-17,Nguyen Viet Anh,HDBank,14:06:19,"done chị Ngọc 10u, ",confirm
+575,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,14:06:25,c tks nhé,ignore
+576,2021-11-17,Nguyen Viet Anh,HDBank,14:06:45,"HDB	ON 	1W 	2W 	1M . Bid	0,40	0,50	0,60	0,60. Ask	0,70	0,75	0,80	0,80",
+577,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:09:33,sell LVBT 1w tom 0.63 nhé,hit
+578,2021-11-17,Tran Thi Ngoc Thuy,Tien Phong Bank,14:10:01,Vũ ơi đoạn trên done 100u 6m nhe. tks e,
+579,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:10:05,dạ okie chị ,confirm
+580,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,14:10:09,buy VIB 20u 1w tom ,hit
+581,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:10:17,done chị nhé ạ . tks chị thúy,confirm
+582,2021-11-17,Dao Le Linh Le,Military Commercial Joint Stock Bank,14:10:52,bid 1yr tom 0.95,bid
+583,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:10:53,done a Vũ 30u 1w tom nhé,confirm
+584,2021-11-17,Vu Ha Tuan,Vietnam International Bank,14:11:09,done QA vs Ngọc nhé. a tks,confirm
+585,2021-11-17,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:11:10,e tkss,ignore
+586,2021-11-17,Do Hong Ngoc,An Binh Commercial JS Bank,14:11:12,e tks,ignore
+587,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:11:12,TODAY,
+588,2021-11-18,Tran Hong Quan,Vietnam Bond Market Association,09:00:31,Good morning anh/chị. VBMA xin gửi swap date tham khảo. Morning session	 	 	 	 . Trade date	18-Nov-21	 	 	 . Start date	18-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	19-Nov-21	Fri	1	 . 1w	25-Nov-21	Thu	7	US Holidays. 2w	2-Dec-21	Thu	14	 . 1m	17-Dec-21	Fri	29	 . 2m	18-Jan-22	Tue	61	 . 3m	18-Feb-22	Fri	92	 . 6m	18-May-22	Wed	181	 . 9m	18-Aug-22	Thu	273	 . 12m	18-Nov-22	Fri	365	 .  	 	 	 	 .  	 	 	 	 . Afternoon session	 	 	 	 . Trade date	18-Nov-21	 	 	 . Start date	19-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	22-Nov-21	Mon	3	 . 1w	26-Nov-21	Fri	7	 . 2w	3-Dec-21	Fri	14	 . 1m	17-Dec-21	Fri	28	 . 2m	19-Jan-22	Wed	61	 . 3m	18-Feb-22	Fri	91	 . 6m	19-May-22	Thu	181	 . 9m	19-Aug-22	Fri	273	 . 12m	18-Nov-22	Fri	364	 . Good morning. VBMA xin gửi anh/chị giá phiên sáng 18/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . ACB	0.40/0.70	0.50/0.70	0.60/0.75	0.60/0.75	0.70/0.85	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.60/0.63	0.60/0.65	0.60/0.65	0.63/0.68	 	 	 	 	 . SEAB	0.50/0.65	0.50/0.65	0.55/0.70	0.60/0.75	0.65/0.85	 	0.85/1.05	0.85/1.05	0.85/1.05. MSB	0.55/0.65	0.60/0.65	0.60/0.65	0.63/0.68	0.72/0.82	0.90/1.05	0.90/1.05	0.90/1.05	0.95/1.00. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.75/0.95	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.40/0.65	0.45/0.65	0.60/0.80	0.60/0.75	0.70/0.95	 	0.85/1.05	0.85/1.05	0.85/1.00. OCB	0.50/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. MBB	0.50/0.70	0.55/0.75	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.45/0.65	0.55/0.65	0.60/0.70	0.63/0.73	0.75/0.90	0.85/1.05	0.90/1.05	0.85/1.05	0.85/1.05. STB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . TPB	0.58/0.63	0.62/0.67	0.63/0.68	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.45/0.65	0.58/0.68	0.60/0.70	0.60/0.70	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05,ignore
+589,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:00:38,bid on-1w 0.6,bid
+590,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:00:49,sell LV ON,hit
+591,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:00:51,sell ON ,hit
+592,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:00:59,sell Ngọc ON luôn nhé,hit
+593,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:01:04,sell LV ON ,hit
+594,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:01:10,sell ON 0.6,hit
+595,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:01:14,sell AB ON,hit
+596,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:01:18,done VIB TCB MB 30 each ạ,confirm
+597,2021-11-18,Nguyen Viet Anh,HDBank,09:01:19,sell LV on ,hit
+598,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:01:25,done QA,confirm
+599,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:01:27,done chị Việt Anh,confirm
+600,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:01:27,done QA nhé ,confirm
+601,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:01:29,30u luôn nhé chị,hit
+602,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:01:36,"done TCB. VIB, MB 25ech ",confirm
+603,2021-11-18,Nguyen Viet Anh,HDBank,09:01:37,chị 10u em nha ^^ ,hit
+604,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:01:41,done Ngọc nhé,confirm
+605,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:01:49,e tks,ignore
+606,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:01:51,dạ chị:D,ignore
+607,2021-11-18,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:01:53,bid ON 0.6 30u ,bid
+608,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:01:58,done ABB ạ,confirm
+609,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:02:00,"done LV 30u, done AB 25u ",confirm
+610,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:02:00,sell Tiệp nhé,hit
+611,2021-11-18,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:02:10,done Thảo 30u nhé,confirm
+612,2021-11-18,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:02:22,sell TP 2w nhé,hit
+613,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:02:22,"done VP 30u, t tks",confirm
+614,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,09:02:26,sell Linh MB 10u 1y 0.95 nhe,hit
+615,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:02:34,"done anh Kiên, em tks ạ ",confirm
+616,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:02:36,bid 1w 0.6,bid
+617,2021-11-18,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:02:42,buy a Kien. 1y 20u if suit,hit
+618,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,09:02:44,thk Linh,ignore
+619,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:02:49,bid 6m tod tom 0.9,bid
+620,2021-11-18,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:02:52,buy a kiên 10u 1y ,hit
+621,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:03:01,bid 1yr 0.95 ,bid
+622,2021-11-18,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:03:22,1y 0.95 1,hit
+623,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:03:22,offer 1w 0.65,offer
+624,2021-11-18,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:03:26,sell TP 1w nhé ,hit
+625,2021-11-18,Pham Manh Duc,An Binh Commercial JS Bank,09:03:31,bid 1w 0.6,bid
+626,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:03:39,bid 2w 0.63,bid
+627,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:03:40,done a Trung 10u ạ,confirm
+628,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:03:44,bid 1y 0.95,bid
+629,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,09:03:45,"anh tam het roi, done MB only nha",confirm
+630,2021-11-18,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:03:50,oki em,confirm
+631,2021-11-18,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:03:59,sell anh Minh nhé ạ. 2w,hit
+632,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:04:03,bid 1w 0.6,bid
+633,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:04:10,done lvbt 20u. a tksssss,confirm
+634,2021-11-18,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:04:12,done anh. em tksss,confirm
+635,2021-11-18,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:04:21,sell a Minh 2w nhé. 20u a ơi,hit
+636,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:04:26,buy a Trung 2w,hit
+637,2021-11-18,Trinh Duc An,Sea Bank,09:04:26,bid 2m 0.75,bid
+638,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:04:26,sell TP ON 0.58,hit
+639,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:04:31,Vp 20u,hit
+640,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:04:34,buy c Thảo ON,hit
+641,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:04:35,tksssss man,ignore
+642,2021-11-18,Trung Nguyen Duy,Vietnam Prosperity JS Commercial Bank,09:04:39,sgtt only e tks,ignore
+643,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:04:39,done Tcbd 10u ạ,confirm
+644,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:04:42,buy Thảo ON ,hit
+645,2021-11-18,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:04:45,buy chị Thảo ON,hit
+646,2021-11-18,Nguyen Hoang Tan,Orient Commercial Bank,09:04:50,buy chị Thảo ON ,hit
+647,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:04:51,em 20u ạ,hit
+648,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:05:01,"done TP 10u, MB< LV 20u each nhé",confirm
+649,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:05:08,"done Thảo, tớ tks ",confirm
+650,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:05:10,dạ em tkss,ignore
+651,2021-11-18,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:05:16,bid 1w 0.6,bid
+652,2021-11-18,Pham Manh Duc,An Binh Commercial JS Bank,09:05:32,bid 1w 0.6,bid
+653,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:05:34,nothing othes ạ ,ignore
+654,2021-11-18,Pham Dinh Hoa,Asia Commercial Bank,09:05:35,2m 0.7 0.85,hit
+655,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:05:59,offer 1w 0.63,offer
+656,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:05:59,done LV 2w 20u nha,confirm
+657,2021-11-18,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:06:02,done Việt nha,confirm
+658,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:06:05,offer 6m 0.95 1yr 1.0,offer
+659,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,09:06:33,bid 2w 0.6,bid
+660,2021-11-18,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:06:39,bid spot 0.6,bid
+661,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:06:43,sell,hit
+662,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:06:46,buy,hit
+663,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:06:54,ON 1w bid 0.6,bid
+664,2021-11-18,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:06:56,anh 50u nhé ,hit
+665,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:06:57,a Vũ SPT 30u,hit
+666,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:06:59,done anh 30u nehs,confirm
+667,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,09:07:03,offer 1y 1.0,offer
+668,2021-11-18,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:07:09,bid ON-1w 0.6,bid
+669,2021-11-18,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:07:14,done VIBH 30u ,confirm
+670,2021-11-18,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:07:15,bid 7m 0.93,bid
+671,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:07:58,bid spt 0.6,bid
+672,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,09:08:07,offer 9m 1y 0.975,offer
+673,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:08:10,offer 1w 0.63,offer
+674,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:08:31,buy a Vũ 1w,hit
+675,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:08:36,done nhé,confirm
+676,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:08:40,buy a Vũ 1w,hit
+677,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:08:40,50u nhé,hit
+678,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:08:44,20u 1w ,hit
+679,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:08:47,done a . em tksss,confirm
+680,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:08:55,done Ngọc nhé,confirm
+681,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:09:13,e tks ,ignore
+682,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:09:18,offer ON 0.6,offer
+683,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:09:22,buy Việt,hit
+684,2021-11-18,Le Lam Thinh,Orient Commercial Bank,09:09:27,buy ON,hit
+685,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:09:32,3 chục nhé ,hit
+686,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:09:36,okie done Cuốc 15u,confirm
+687,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:09:42,okie bae,confirm
+688,2021-11-18,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:10:42,bid 1w 0.6 ,bid
+689,2021-11-18,Pham Dinh Hoa,Asia Commercial Bank,09:10:56,bid 2w tod tom 0.6,bid
+690,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:10:56,ON 1w bid 0.6,bid
+691,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,09:12:52,bid 1w 2w 0.63 ,bid
+692,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:14:23,sell Cuốc thêm 10u ON zai ơi,hit
+693,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:14:28,done Việt,confirm
+694,2021-11-18,Nguyen Hoang Tan,Orient Commercial Bank,09:14:44,sell QA 10u ON nữa nhé,hit
+695,2021-11-18,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:14:44,thk iu,ignore
+696,2021-11-18,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:14:50,sell Cuốc 10u ON ,hit
+697,2021-11-18,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:15:02,sell ABB 1w 0.63 20u ,hit
+698,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:15:25,done 2 bạn. t tkss,confirm
+699,2021-11-18,Nguyen Hoang Tan,Orient Commercial Bank,09:15:33,ok done Cuốc tui thanks,confirm
+700,2021-11-18,Hung Ngo Tuan,Vietnam Maritime Commercial Joint Stock Bank,09:15:40,tks babi,ignore
+701,2021-11-18,Pham Manh Duc,An Binh Commercial JS Bank,09:15:49,done 20u VPB ạ ,confirm
+702,2021-11-18,Tiep Le Ba,Vietnam Prosperity JS Commercial Bank,09:16:24,"done, a tks ",confirm
+703,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:28:45,ON pls ,hit
+704,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:28:58,bid 0.55,bid
+705,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:29:02,bid 0.55,bid
+706,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:29:25,sell VIB MB 25u each ,hit
+707,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:29:33,done Thảo 20u nhé,confirm
+708,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:29:35,done Thảo 20u nhé ,confirm
+709,2021-11-18,Vu Ha Tuan,Vietnam International Bank,09:29:37,a tks ,ignore
+710,2021-11-18,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:29:40,tớ tks,ignore
+711,2021-11-18,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:29:48,"vâng em done 20 each ạ, em tks ",confirm
+712,2021-11-18,Tran Hong Quan,Vietnam Bond Market Association,14:00:12,Good morning anh/chị. VBMA xin gửi fixing hnay 18/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . ACB	0.40/0.70	0.50/0.70	0.60/0.75	0.60/0.75	0.70/0.85	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.60/0.63	0.60/0.65	0.60/0.65	0.63/0.68	 	 	 	 	 . SEAB	0.50/0.65	0.50/0.65	0.55/0.70	0.60/0.75	0.65/0.85	 	0.85/1.05	0.85/1.05	0.85/1.05. MSB	0.55/0.65	0.60/0.65	0.60/0.65	0.63/0.68	0.72/0.82	0.90/1.05	0.90/1.05	0.90/1.05	0.95/1.00. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.75/0.95	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.40/0.65	0.45/0.65	0.60/0.80	0.60/0.75	0.70/0.95	 	0.85/1.05	0.85/1.05	0.85/1.00. OCB	0.50/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. MBB	0.50/0.70	0.55/0.75	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.45/0.65	0.55/0.65	0.60/0.70	0.63/0.73	0.75/0.90	0.85/1.05	0.90/1.05	0.85/1.05	0.85/1.05. STB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . TPB	0.58/0.63	0.62/0.67	0.63/0.68	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.45/0.65	0.58/0.68	0.60/0.70	0.60/0.70	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. Fixing*	0.584%	0.607%	0.643%	0.655%	0.800%	0.961%	0.964%	0.961%	0.961%. Yesterday	0.637%	0.654%	0.677%	0.696%	0.814%	1.000%	0.989%	0.993%	0.995%. Change	-0.054%	-0.047%	-0.034%	-0.041%	-0.014%	-0.039%	-0.025%	-0.032%	-0.034%. VBMA xin gửi anh/chị giá phiên chiều 18/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.70	0.60/0.70	0.60/0.70	0.60/0.70	 	 	 	 	 . ACB	0.50/0.70	0.50/0.70	0.60/0.75	0.60/0.75	0.75/0.90	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.60/0.63	0.60/0.65	0.60/0.65	0.63/0.68	 	 	 	 	 . SEAB	0.50/0.65	0.50/0.65	0.55/0.70	0.60/0.75	0.65/0.85	 	0.85/1.05	0.85/1.05	0.85/1.05. MSB	0.55/0.65	0.60/0.65	0.62/0.67	0.63/0.68	0.70/0.80	0.90/1.00	0.90/1.00	0.90/1.00	0.93/0.98. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.75/0.95	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.50/0.70	0.50/0.70	0.60/0.80	0.60/0.80	0.70/0.95	 	0.85/1.05	0.85/1.05	0.85/1.00. OCB	0.55/0.75	0.55/0.75	0.60/0.80	0.60/0.80	0.65/0.85	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. MBB	0.50/0.70	0.55/0.75	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.55/0.65	0.55/0.65	0.60/0.70	0.63/0.73	0.65/0.80	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. STB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . TPB	0.58/0.62	0.62/0.66	0.62/0.66	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.50/0.70	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.45/0.65	0.55/0.65	0.60/0.70	0.60/0.70	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05,ignore
+713,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:00:25,sell TCB 2m . 50u nhé ạ,hit
+714,2021-11-18,Pham Dinh Hoa,Asia Commercial Bank,14:01:03,2m tom 0.7 0.8. bid 2w tom 0.63,bid
+715,2021-11-18,Nam Lai Hai,Vietnam Technological Commercial Joint Stock Bank,14:01:34,done QA 30u nhé,confirm
+716,2021-11-18,Pham Dinh Hoa,Asia Commercial Bank,14:01:44,bid 3w tom 0.65,bid
+717,2021-11-18,Nam Lai Hai,Vietnam Technological Commercial Joint Stock Bank,14:01:50,thank you,ignore
+718,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:01:56,done a Nam ạ. em tkss,confirm
+719,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:02:27,buy ocb 20u 2m\. eeee,hit
+720,2021-11-18,Minh Hoang Nguyen,Vietnam Export - Import Bank,14:02:43,Ngọc buy 2m giá nào đấy. show luôn a fill nè,hit
+721,2021-11-18,Pham Dinh Hoa,Asia Commercial Bank,14:02:45,0.85 hả chị,
+722,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:02:51,buy lvbt 2m 0.75,hit
+723,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:02:58,done chị Ngọc 20u còn lại nhé,confirm
+724,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:03:06,c tks ,ignore
+725,2021-11-18,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:03:13,dạ em tkss,ignore
+726,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:03:17,a Hoàng có 2m 0.75 ko. cho e 20u,
+727,2021-11-18,Minh Hoang Nguyen,Vietnam Export - Import Bank,14:03:37,ah 0.75 thì a chưa rồi. a có 0.77 thôi,
+728,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:03:43,done a MH 25u,confirm
+729,2021-11-18,Minh Hoang Nguyen,Vietnam Export - Import Bank,14:03:48,oki em,confirm
+730,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:03:52,e tks ạ ,ignore
+731,2021-11-18,Minh Hoang Nguyen,Vietnam Export - Import Bank,14:04:01,(y) ,ignore
+732,2021-11-18,Do Thi Van Anh,Orient Commercial Bank,14:04:01,bid 3m 0.9 sp,bid
+733,2021-11-18,Minh Hoang Nguyen,Vietnam Export - Import Bank,14:04:08,có sản phẩm kia thì nhớ hú a nhé,ignore
+734,2021-11-18,Pham Dinh Hoa,Asia Commercial Bank,14:04:17,bid 2w tom 0.63,bid
+735,2021-11-18,Vu Ha Tuan,Vietnam International Bank,14:04:19,bid 6m tom 0.9,bid
+736,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:07:05,6m tom offer 0.95,offer
+737,2021-11-18,Do Hong Ngoc,An Binh Commercial JS Bank,14:07:23,"done a MH thêm 20u 2m 0.77 nữa ạ, total 45u . e tks ",confirm
+738,2021-11-18,Minh Hoang Nguyen,Vietnam Export - Import Bank,14:07:28,oki Ngọc,confirm
+739,2021-11-18,Vu Ha Tuan,Vietnam International Bank,14:07:34,bid 6m tom 0.925 ở giữa a Minh ơi:P,bid
+740,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:07:45,oki. done 40u nhé man,confirm
+741,2021-11-18,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:07:45,bid 7m tom 0.93,bid
+742,2021-11-18,Vu Ha Tuan,Vietnam International Bank,14:07:50,done ah . em tks nhé,confirm
+743,2021-11-18,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:08:05,a tkssss. :D,ignore
+744,2021-11-18,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:16:44,Quân ơi c bid 6m 20u 0.95 tom nhé,bid
+745,2021-11-18,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,14:16:58,vang done chi a,confirm
+746,2021-11-18,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,14:17:05,done e,confirm
+747,2021-11-18,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,14:17:06,em tks ,ignore
+748,2021-11-18,Kien Nguyen Khac,Asia Commercial Bank,14:17:49,offer 6m 0.95,offer
+749,2021-11-19,Kien Nguyen Khac,Asia Commercial Bank,14:17:49,"NOVEMBER 19, 2021",ignore
+750,2021-11-19,Le Ha Linh,vbma.org.vn,09:00:17,Good morning anh/chị. VBMA xin gửi swap date tham khảo. Morning session	 	 	 	 . Trade date	19-Nov-21	 	 	 . Start date	19-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	22-Nov-21	Mon	3	 . 1w	26-Nov-21	Fri	7	 . 2w	3-Dec-21	Fri	14	 . 1m	17-Dec-21	Fri	28	 . 2m	19-Jan-22	Wed	61	 . 3m	18-Feb-22	Fri	91	 . 6m	19-May-22	Thu	181	 . 9m	19-Aug-22	Fri	273	 . 12m	18-Nov-22	Fri	364	 . Afternoon session	 	 	 	 . Trade date	19-Nov-21	 	 	 . Start date	22-Nov-21	 	 	 . End date	 	 	 	 . Tenor	Date	Weekday	Days	Note. ON	23-Nov-21	Tue	1	 . 1w	29-Nov-21	Mon	7	 . 2w	6-Dec-21	Mon	14	 . 1m	22-Dec-21	Wed	30	 . 2m	21-Jan-22	Fri	60	 . 3m	22-Feb-22	Tue	92	 . 6m	20-May-22	Fri	179	 . 9m	22-Aug-22	Mon	273	 . 12m	22-Nov-22	Tue	365	 . Good morning. VBMA xin gửi anh/chị giá phiên sáng 19/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.70	0.60/0.70	0.60/0.70	0.60/0.70	 	 	 	 	 . ACB	0.50/0.70	0.50/0.70	0.60/0.75	0.60/0.75	0.70/0.90	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.60/0.63	0.60/0.65	0.60/0.65	0.63/0.68	 	 	 	 	 . SEAB	0.50/0.65	0.50/0.65	0.55/0.70	0.60/0.75	0.65/0.85	 	0.85/1.05	0.85/1.05	0.85/1.05. MSB	0.55/0.65	0.60/0.65	0.62/0.67	0.63/0.68	0.70/0.80	0.90/1.00	0.90/1.00	0.90/1.00	0.95/1.00. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.70/0.90	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.45/0.65	0.45/0.65	0.55/0.75	0.55/0.75	0.65/0.90	 	0.85/1.05	0.85/1.05	0.85/1.05. OCB	0.55/0.75	0.55/0.75	0.60/0.80	0.60/0.80	0.65/0.85	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. MBB	0.50/0.70	0.55/0.75	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.55/0.65	0.55/0.65	0.60/0.70	0.63/0.73	0.65/0.80	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. STB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . TPB	0.58/0.62	0.61/0.64	0.63/0.66	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.50/0.70	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.50/0.65	0.55/0.70	0.55/0.70	0.60/0.75	0.65/0.80	0.80/1.00	0.80/1.00	0.85/1.05	0.85/1.05,ignore
+751,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:00:23,sell LV ON. 50u nhé,hit
+752,2021-11-19,Nguyen Viet Anh,HDBank,09:00:28,sell LV on ,hit
+753,2021-11-19,Pham Dinh Hoa,Asia Commercial Bank,09:00:32,bid 3w 0.64,bid
+754,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:00:35,buy a Vũ ON,hit
+755,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,09:00:35,bid ON -1w 0.6,bid
+756,2021-11-19,Nguyen Viet Anh,HDBank,09:00:37,50u ạ ,hit
+757,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:00:40,done Ngọc,confirm
+758,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:00:53,done chị VA nhé ạ,confirm
+759,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:00:54,cho e 50u ,hit
+760,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:00:57,okie em,confirm
+761,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:00:59,done anh Tuấn,confirm
+762,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:00:59,e tks,ignore
+763,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:01:02,eee,ignore
+764,2021-11-19,Nguyen Viet Anh,HDBank,09:01:02,done LV 50u ON 0.6 ,confirm
+765,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:01:03,anh Vũ,ignore
+766,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:01:07,:D,ignore
+767,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:01:16,offer 3w 0.65,offer
+768,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:01:27,bid 1w 0.6 ,bid
+769,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:01:27,Xí lộn nha anh Vũ:D,ignore
+770,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,09:01:29,bid 1w 0.62,bid
+771,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:01:46,sell 1w,hit
+772,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:02:00,buy 1w. em 50 nữa nha a,hit
+773,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,09:02:04,done VIB 50u ạ,confirm
+774,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:02:06,bid 2w 0.63,bid
+775,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:02:14,done 2 ae nhé,confirm
+776,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:02:19,dạ em tkss,ignore
+777,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:02:21,sell LV ON if suit ,hit
+778,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:02:31,50u nhé chị Linh,hit
+779,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:02:35,buy chị Linh ON 20u ,hit
+780,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:02:38,done Đức nhé,confirm
+781,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:02:43,bid 1w 0.62 ,bid
+782,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:02:44,buy MB ON ,hit
+783,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:02:44,"done chị, em tkssss",confirm
+784,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:02:51,20u Linh nhé,hit
+785,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:03:02,"nothing others, Linh tạm hết nha",ignore
+786,2021-11-19,Ha Hai Nam,Military Commercial Joint Stock Bank,09:03:13,5u tom pls,hit
+787,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:03:16,buy a Vũ 20u ON if suit ạ,hit
+788,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:04:36,done Tấn nhé,confirm
+789,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:04:47,done a em thanks,confirm
+790,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:04:54,ON 1w bid 0.63,bid
+791,2021-11-19,Truong Kim Ngan,Orient Commercial Bank,09:05:25,sell 40u 1w. 0.63,hit
+792,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,09:05:30,bid 2w 0.63 ,bid
+793,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:05:35,done Ngân. a tks nhé,confirm
+794,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:05:38,2w offer 0.65,offer
+795,2021-11-19,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:05:46,sell Dat 10u ON . à Quoc Anh,hit
+796,2021-11-19,Truong Kim Ngan,Orient Commercial Bank,09:05:47,"done anh 40u, em thks ạ",confirm
+797,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:05:56,dạ done c Hằng ạ. em tkss,confirm
+798,2021-11-19,Tran Thi Hang,Ho Chi Minh Development Commercial Joint Stock Bank,09:05:59,tks em,ignore
+799,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:06:23,"bid 1w 2w 0.63, 3w 0.65",bid
+800,2021-11-19,Trinh Duc An,Sea Bank,09:07:25,buy lvbt msb tpb 1m 0.68 50 each,hit
+801,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:07:57,done anh An 10u,confirm
+802,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:08:23,done a An 30u nhé,confirm
+803,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:08:32,sell Cuốc ON 0.63 nào,hit
+804,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:08:32,oki a An 10u,confirm
+805,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:08:41,done Việt,confirm
+806,2021-11-19,Trinh Duc An,Sea Bank,09:08:41,okie,confirm
+807,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,09:08:42,bid 2w 0.63 ,bid
+808,2021-11-19,Pham Dinh Hoa,Asia Commercial Bank,09:08:49,"bid 2w tom 0.63, 3w tom 0.65",bid
+809,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:08:55,1m 0.67 0.72,hit
+810,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:08:58,bid ON 0.6,bid
+811,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:08:58,30u ON nha,hit
+812,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:09:08,done. thăn kiu,confirm
+813,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:09:17,bid 1w 0.62,bid
+814,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:09:36,sell LVBT thêm 10u ON nữa nhé ,hit
+815,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:10:03,vâng chị. em tksssss,ignore
+816,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:10:07,"done QA, chị tks nhé",confirm
+817,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:10:32,cuốc ơi còn thêm 20u ON nóng hổi,
+818,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:10:42,thì cứ ném đây :)),ignore
+819,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:10:55,okie total 50u tk ty =)),confirm
+820,2021-11-19,Truong Kim Ngan,Orient Commercial Bank,09:11:32,buy chị Linh 20u ON if suit ,hit
+821,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:11:49,offer On 0.6,offer
+822,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:11:52,buy,hit
+823,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:11:53,buy,hit
+824,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:11:54,buy,hit
+825,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:11:54,buy,hit
+826,2021-11-19,Truong Kim Ngan,Orient Commercial Bank,09:11:54,buy,hit
+827,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:11:56,10u nhé,hit
+828,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:11:59,e 10u c Thao,hit
+829,2021-11-19,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:11:59,buy,hit
+830,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:12:03,em 40u nhé,hit
+831,2021-11-19,Huynh Nhat Khanh,Vietnam Export - Import Bank,09:12:04,15u nhé chị Thảo,hit
+832,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:12:05,done Thảo 25u nhé,confirm
+833,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:12:41,"done MSB, OCB, VIB, ABBK 10 each ạ . nothing others",confirm
+834,2021-11-19,Vu Ha Tuan,Vietnam International Bank,09:12:42,tks em ,ignore
+835,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:12:43,t tks,ignore
+836,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:12:44,oki c,confirm
+837,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:13:06,1w bid 0.62,bid
+838,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:13:16,done chị em thanks,confirm
+839,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:13:58,ON 1w vẫn bid 0.63,bid
+840,2021-11-19,Trinh Duc An,Sea Bank,09:14:25,2m pls,hit
+841,2021-11-19,Pham Dinh Hoa,Asia Commercial Bank,09:14:45,bid 2m tom 0.7,bid
+842,2021-11-19,Nguyen Hoang Tan,Orient Commercial Bank,09:15:01,2m tod bid 0.7,bid
+843,2021-11-19,Do Thi Van Anh,Orient Commercial Bank,09:15:10,bid 3m 0.9,bid
+844,2021-11-19,Nguyen Ngoc Ha,Vietnam Technological Commercial Joint Stock Bank,09:18:51,bid 7m 0.9,bid
+845,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:21:09,any 6m pls,hit
+846,2021-11-19,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,09:21:32,bid 0.95 ,bid
+847,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:21:36,sell msb,hit
+848,2021-11-19,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,09:21:48,done Thao 20u nhes,confirm
+849,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,09:21:56,ok done Quân 20u nhé,confirm
+850,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:22:12,bid ON 1w 0.63,bid
+851,2021-11-19,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:22:58,... . qua sell nay bid lun à a QUân,ignore
+852,2021-11-19,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,09:23:28,quay xe em oi. dat sell anh it ,ignore
+853,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:23:45,sell LVBT 20u ON nữa nhé ,hit
+854,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:23:51,done chị Linh nhé ạ,confirm
+855,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:23:57,"total nay là 80u . done em, chị tks ",confirm
+856,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,09:24:28,vâng:D,ignore
+857,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:27:28,offer 1w 0.63,offer
+858,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:27:42,buy Linh 30u 1w,hit
+859,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:27:49,buy c Linh. 30u ạ,hit
+860,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,09:28:19,buy. sqr . nothing Linh nhé ,hit
+861,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:28:42,"done anh Minh, QA nhé ",confirm
+862,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:28:44,buy 1w 0.63 ,hit
+863,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:28:44,30u each ,hit
+864,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:28:50,em tksssss,ignore
+865,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:28:51,20u Linh ơi ,hit
+866,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:28:52,em tks ạ ,ignore
+867,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:29:03,tkssss em,ignore
+868,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:29:40,TPBank	 ON  	 1W  	 2W  	1M .  Bid 	0.59	0.61	0.63	0.64. Ask	0.62	0.64	0.65	0.68,
+869,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:29:54,buy Việt 20u ON,hit
+870,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:30:08,done nha,confirm
+871,2021-11-19,Dao Le Linh Le,Military Commercial Joint Stock Bank,09:30:11,"nothing anh Đạt, em hết ạ ",ignore
+872,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:30:17,ok em ,confirm
+873,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:30:17,thăn kiu,ignore
+874,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:30:32,buy Phi 1m ,hit
+875,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:30:50,done a thêm 5u ạ,confirm
+876,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:31:00,PHi ơi PHi ơi . ok em . a tks ,confirm
+877,2021-11-19,Tran Thi Ngoc Thuy,Tien Phong Bank,09:31:04,Phi thì chắc là k done rồi a ạ,ignore
+878,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:31:09,:D ,ignore
+879,2021-11-19,Tran Thi Ngoc Thuy,Tien Phong Bank,09:31:09,a Tất ạ,ignore
+880,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:31:18,:D ,ignore
+881,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,09:31:20,giận nhỉ =))),ignore
+882,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,09:31:23,thật ý chả lẽ lại..,ignore
+883,2021-11-19,Tran Thi Ngoc Thuy,Tien Phong Bank,09:31:27,"mà quá giờ rồi có dc tính đâu, chiều đi anh Đ",ignore
+884,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,09:31:39,ô tê ,ignore
+885,2021-11-19,Tran Thi Ngoc Thuy,Tien Phong Bank,09:31:44,nhanh tay như Cuốc mới được,ignore
+886,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,09:32:29,e done đúng địa chỉ mới lẹ đó chị :)),confirm
+887,2021-11-19,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:37:11,sell a Quân 50u 6m 0.95 nhé  a ,hit
+888,2021-11-19,Do Thi Van Anh,Orient Commercial Bank,09:37:40,bid 3m 0.95 tom,bid
+889,2021-11-19,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:37:49,test xem quay xe thật không ,ignore
+890,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:38:10,1y tom đc k a Dat,hit
+891,2021-11-19,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:38:26,..... Khánh k đọc anh Quân chat ở trên à,ignore
+892,2021-11-19,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,09:38:37,bid tu sang som ma gio trua moi sell anh a:(,ignore
+893,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:38:43,hả e k rõ,ignore
+894,2021-11-19,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:38:44,e miss tn ,ignore
+895,2021-11-19,Nguyen Duy Khanh,Vietnam Maritime Commercial Joint Stock Bank,09:38:46,e vs a Q khác mà:D,ignore
+896,2021-11-19,Dat Duong Van,Lien Viet Post Joint Stock Commercial Bank,09:38:47,nothing nha,ignore
+897,2021-11-19,Quan Nguyen Hai,Vietnam Maritime Commercial Joint Stock Bank,09:38:54,okie em ,confirm
+898,2021-11-19,Le Ha Linh,vbma.org.vn,14:00:07,"VBMA xin gửi anh chị fixing hnay, 19/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.60/0.70	0.60/0.70	0.60/0.70	0.60/0.70	 	 	 	 	 . ACB	0.50/0.70	0.50/0.70	0.60/0.75	0.60/0.75	0.70/0.90	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.60/0.63	0.60/0.65	0.60/0.65	0.63/0.68	 	 	 	 	 . SEAB	0.50/0.65	0.50/0.65	0.55/0.70	0.60/0.75	0.65/0.85	 	0.85/1.05	0.85/1.05	0.85/1.05. MSB	0.55/0.65	0.60/0.65	0.62/0.67	0.67/0.72	0.70/0.80	0.90/1.00	0.90/1.00	0.90/1.00	0.95/1.00. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.70/0.90	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.45/0.65	0.45/0.65	0.55/0.75	0.55/0.75	0.65/0.90	 	0.85/1.05	0.85/1.05	0.85/1.05. OCB	0.55/0.75	0.55/0.75	0.60/0.80	0.60/0.80	0.65/0.85	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. MBB	0.50/0.70	0.55/0.75	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.55/0.65	0.55/0.65	0.60/0.70	0.63/0.73	0.65/0.80	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. STB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . TPB	0.58/0.62	0.61/0.64	0.63/0.66	0.63/0.68	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. VPB	0.50/0.70	0.50/0.70	0.50/0.70	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.50/0.65	0.55/0.70	0.55/0.70	0.60/0.75	0.65/0.80	0.80/1.00	0.80/1.00	0.85/1.05	0.85/1.05. Fixing*	0.601%	0.613%	0.639%	0.661%	0.770%	0.953%	0.955%	0.959%	0.964%. Yesterday	0.584%	0.607%	0.643%	0.655%	0.800%	0.961%	0.964%	0.961%	0.961%. Change	0.017%	0.005%	-0.005%	0.006%	-0.029%	-0.008%	-0.009%	-0.002%	0.002%. VBMA xin gửi anh chị giá chiều 19/11/2021. Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y. ABB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . ACB	0.50/0.70	0.50/0.70	0.60/0.75	0.60/0.75	0.70/0.90	0.85/1.10	0.85/1.05	0.85/1.05	0.85/1.10. LPB	0.60/0.63	0.60/0.65	0.60/0.65	0.65/0.70	 	 	 	 	 . SEAB	0.50/0.65	0.50/0.65	0.55/0.70	0.60/0.75	0.65/0.85	 	0.85/1.05	0.85/1.05	0.85/1.05. MSB	0.60/0.65	0.63/0.68	0.65/0.70	0.67/0.72	0.70/0.90	0.95/1.05	0.90/1.00	0.90/1.00	0.95/1.00. TCB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	0.70/0.90	0.80/1.00	0.85/1.05	0.85/1.05	0.85/1.05. HDB	0.50/0.70	0.50/0.70	0.55/0.75	0.60/0.80	0.65/0.90	 	0.85/1.05	0.85/1.05	0.85/1.05. OCB	0.55/0.65	0.55/0.65	0.60/0.70	0.60/0.70	0.70/0.80	0.90/1.05	0.90/1.05	0.90/1.05	0.90/1.05. MBB	0.50/0.70	0.55/0.75	0.55/0.75	0.55/0.75	0.70/0.90	0.85/1.05	0.85/1.05	0.85/1.05	0.85/1.05. VIB	0.55/0.65	0.55/0.65	0.60/0.70	0.65/0.75	0.70/0.85	0.90/1.05	0.85/1.05	0.85/1.05	0.85/1.05. STB	0.50/0.70	0.50/0.70	0.50/0.70	0.50/0.70	 	 	 	 	 . TPB	0.60/0.65	0.62/0.64	0.63/0.66	0.67/0.70	0.70/0.90	0.90/1.10	0.85/1.05	0.85/1.05	0.85/1.05. VPB	0.50/0.70	0.50/0.70	0.50/0.70	0.60/0.80	0.70/0.90	0.90/1.10	0.90/1.10	0.90/1.10	0.90/1.10. EIB	0.50/0.65	0.55/0.70	0.55/0.70	0.60/0.75	0.65/0.80	0.80/1.00	0.80/1.00	0.85/1.05	0.85/1.05",ignore
+899,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,14:01:38,LPB	ON	1W	2W. Bid	0.63	0.63	0.63. Ask	0.63	0.63	0.63,
+900,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,14:01:49,buy 2w,hit
+901,2021-11-19,Pham Dinh Hoa,Asia Commercial Bank,14:01:54,buy 2w tom,hit
+902,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,14:02:04,30u LVBT ạ,hit
+903,2021-11-19,Tran Thi Ngoc Thuy,Tien Phong Bank,14:02:05,buy,hit
+904,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,14:02:20,done all 30 each nhé ạ,confirm
+905,2021-11-19,Pham Manh Duc,An Binh Commercial JS Bank,14:02:27,em tks,ignore
+906,2021-11-19,Tran Thi Ngoc Thuy,Tien Phong Bank,14:02:35,ok e,confirm
+907,2021-11-19,Nguyen Thanh Duc,Lien Viet Post Joint Stock Commercial Bank,14:02:49,em tks ạ,ignore
+908,2021-11-19,Pham Dinh Hoa,Asia Commercial Bank,14:02:54,em tks,ignore
+909,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,14:03:22,offer ON 0.65 15u. offer 1w 0.65,offer
+910,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:03:31,buy 30u 1w,hit
+911,2021-11-19,Viet Nguyen Phi,Tien Phong Commercial Joint Stock Bank,14:03:35,chốt vs SEA total 15u 1m 0.68 nhé ạ,confirm
+912,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,14:03:38,buy 2w LVBT nhé ,hit
+913,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:03:47,abb nhé,
+914,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,14:03:48,OK Việt Phi nhé ,confirm
+915,2021-11-19,Nguyen Viet Anh,HDBank,14:03:53,offer on 0.6,offer
+916,2021-11-19,Do Hong Ngoc,An Binh Commercial JS Bank,14:04:23,"vâng, done SGTT 30u 1w. e tks ",confirm
+917,2021-11-19,Nguyen Hoang Minh,Saigon Thuong Tin Commercial Joint Stock Bank,14:04:52,tks em,ignore
+918,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:05:13,done a Đạt 10u nhé:s. line hẻo hẻo r a,confirm
+919,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,14:09:36,offer on-1w 0.6,offer
+920,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:10:00,buy c Thảo 1w tom. 50u ạ,hit
+921,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,14:10:01,chị quote tod đó QA ơi,
+922,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:10:08,éc. dạ vậy nothing chị,ignore
+923,2021-11-19,Thao Pham Thi Ngoc,Vietnam Technological Commercial Joint Stock Bank,14:10:21,ok e nothing nhé,confirm
+924,2021-11-19,Dat Le Tat,SouthEast Asia Commercial Joint Stock Bank,14:11:05,done Quốc Anh nhé ,confirm
+925,2021-11-19,Do Quoc Anh,Lien Viet Post Joint Stock Commercial Bank,14:11:18,vâng a,ignore
