@@ -40,6 +40,6 @@ def to_structured_data(df):
     df.fillna(method='ffill', axis='rows', inplace=True)
     df = df[cond]
     df = df[~df['time'].isna()]
-    df.reindex(drop=True, inplace=True)
+    df.reset_index(drop=True, inplace=True)
  
     return df
