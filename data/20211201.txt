@@ -1,0 +1,382 @@
+DECEMBER 01, 2021
+Tran Hong Quan Dec 1 Vietnam Bond Market Association
+08:41:53
+Good morning anh/chị. VBMA xin gửi swap date tham khảo
+08:41:55
+Morning session	 	 	 	 
+Trade date	1-Dec-21	 	 	 
+Start date	1-Dec-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	2-Dec-21	Thu	1	 
+1w	8-Dec-21	Wed	7	 
+2w	15-Dec-21	Wed	14	 
+1m	31-Dec-21	Fri	30	 
+2m	8-Feb-22	Tue	69	 
+3m	1-Mar-22	Tue	90	 
+6m	1-Jun-22	Wed	182	 
+9m	1-Sep-22	Thu	274	 
+12m	1-Dec-22	Thu	365	 
+ 	 	 	 	 
+ 	 	 	 	 
+Afternoon session	 	 	 	 
+Trade date	1-Dec-21	 	 	 
+Start date	2-Dec-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	3-Dec-21	Fri	1	 
+1w	9-Dec-21	Thu	7	 
+2w	16-Dec-21	Thu	14	 
+1m	31-Dec-21	Fri	29	 
+2m	9-Feb-22	Wed	69	 
+3m	2-Mar-22	Wed	90	 
+6m	2-Jun-22	Thu	182	 
+9m	2-Sep-22	Fri	274	 
+12m	2-Dec-22	Fri	365	 
+09:01:15
+VBMA xin gửi anh/chị giá pheien sáng 1/12/2021
+09:01:17
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.50/0.80	 	 	 	 	 
+ACB	0.50/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+LPB	0.60/0.65	0.65/0.70	0.68/0.73	0.70/0.90	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+MSB	0.63/0.68	0.63/0.68	0.67/0.72	0.68/0.73	 	 	1.05/1.25	1.05/1.25	1.10/1.30
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	1.15/1.35	1.10/1.30	1.00/1.20	1.00/1.20	1.00/1.20
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.65/0.90	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.95	1.05/1.35	1.00/1.30	1.05/1.25	1.05/1.25	1.05/1.25
+MBB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	1.00/1.30	1.00/1.30	1.05/1.25	1.05/1.25	1.05/1.25
+VIB	0.50/0.70	0.55/0.75	0.60/0.80	0.60/0.80	 	 	 	 	 
+STB	0.55/0.75	0.60/0.80	0.60/0.80	0.60/0.80	 	 	 	 	 
+TPB	0.43/0.63	0.45/0.65	0.50/0.70	0.60/0.80	1.10/1.30	1.05/1.25	1.05/1.25	1.00/1.25	1.00/1.25
+VPB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	1.15/1.35	1.15/1.35	1.05/1.25	1.05/1.25	1.05/1.25
+EIB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:01:22
+sell LV 1w
+Viet Nguyen Phi Dec 1 Tien Phong Commercial Joint Stock Bank
+09:01:28
+sell LV 1w
+Dat Le Tat Dec 1 SouthEast Asia Commercial Joint Stock Bank
+09:01:31
+sell lvbt 1w 
+Do Quoc Anh Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:01:31
+done a Khánh ạ
+Dao Le Linh Le Dec 1 Military Commercial Joint Stock Bank
+09:01:33
+sell LV 1w 20u 
+Nguyen Xuan Phong Dec 1 Saigon Thuong Tin Commercial Joint Stock Bank
+09:01:33
+SGTT	 ON 	  1w 	 2w 	1M
+BID	0.5	0.55	0.55	0.6
+ASK	0.7	0.75	0.75	0.8
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:01:38
+60u nhé QA
+Vu Ha Tuan Dec 1 Vietnam International Bank
+09:01:43
+sell LV 1w
+Viet Nguyen Phi Dec 1 Tien Phong Commercial Joint Stock Bank
+09:01:47
+30u nhé
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:01:48
+buy TPB ON 
+09:01:50
+30u 
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:01:56
+bid 1w 0.6
+Do Quoc Anh Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:01:59
+done TP MB VIB
+Vu Ha Tuan Dec 1 Vietnam International Bank
+09:02:02
+30u nhé QA
+Viet Nguyen Phi Dec 1 Tien Phong Commercial Joint Stock Bank
+09:02:04
+done a Tiệp  20u
+Anh Nguyen Hoang Dec 1 Vietnam Maritime Commercial Joint Stock Bank
+09:02:04
+buy TP 3m 1.25 5u nhé
+Do Quoc Anh Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:02:06
+vâng a
+Dat Le Tat Dec 1 SouthEast Asia Commercial Joint Stock Bank
+09:02:06
+sao ko có anh QA  ơi ... 
+Nguyen Viet Anh Dec 1 HDBank
+09:02:10
+sell MSB on 
+Do Quoc Anh Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:02:12
+a Đạt 20u nhé
+09:02:14
+:(
+09:02:16
+hết line mà
+Dat Le Tat Dec 1 SouthEast Asia Commercial Joint Stock Bank
+09:02:18
+ok em:D 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:02:23
+bid ON 0.6
+Dat Le Tat Dec 1 SouthEast Asia Commercial Joint Stock Bank
+09:02:24
+done 20u 
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:02:31
+buy HD on 30u nhé
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+09:02:37
+done MSB 5u 3m 
+Nguyen Viet Anh Dec 1 HDBank
+09:02:42
+done anh Tiệp 30u ạ 
+Anh Nguyen Hoang Dec 1 Vietnam Maritime Commercial Joint Stock Bank
+09:02:43
+thanks
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:02:47
+a tks VA 
+09:02:52
+e buy chị thúy 5u 3m if suit 
+Nguyen Viet Anh Dec 1 HDBank
+09:02:57
+nothing MSB nhé ạ 
+Nguyen Duy Khanh Dec 1 Vietnam Maritime Commercial Joint Stock Bank
+09:02:59
+nothing VA nha c
+Dat Duong Van Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:03:06
+offer ON 0.63
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:03:07
+buy
+Nguyen Viet Anh Dec 1 HDBank
+09:03:09
+okie c nha 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:03:15
+70u nhé a Đạt
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+09:03:19
+c done mỗi c HA thôi nhé TIệp
+Nguyen Viet Anh Dec 1 HDBank
+09:03:22
+sell Khánh 20u ON nha 
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:03:24
+1w bid 0.63 
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:03:24
+bid 1w 0.65 50u
+Dat Duong Van Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:03:26
+ukie Khánh 
+Dat Le Tat Dec 1 SouthEast Asia Commercial Joint Stock Bank
+09:03:35
+sell TCBD 30u 
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:03:41
+done 
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+09:03:44
+3m 1.2/1.3 update
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:03:49
+done a Đạt only nhé ạ
+Nguyen Viet Anh Dec 1 HDBank
+09:03:56
+offer ON 0.63 20u 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:04:02
+buy
+Vu Ha Tuan Dec 1 Vietnam International Bank
+09:04:03
+sell TCB 20u 1w nốt 
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:04:07
+bid 20u 1w 0.65
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:04:10
+20u nhé chị VA
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:04:15
+1w bid 0.65 
+Nguyen Viet Anh Dec 1 HDBank
+09:04:22
+okie done Khánh 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:04:34
+50u luôn được ko chị
+Le Lam Thinh Dec 1 Orient Commercial Bank
+09:04:36
+bid ON 0.6
+Vu Ha Tuan Dec 1 Vietnam International Bank
+09:04:59
+chị Hà done e ko ah 
+Nguyen Viet Anh Dec 1 HDBank
+09:05:15
+chị còn mỗi thế Khánh ơi 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:05:22
+à okie chị nhé
+09:05:23
+^^
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:05:23
+e buy a vũ if suit 
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:05:37
+Vũ done Tiệp nhé
+Vu Ha Tuan Dec 1 Vietnam International Bank
+09:05:50
+nothing chị 
+09:05:52
+done Tiệp nhé
+09:05:55
+20u
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:05:56
+dạ done a ạ 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:06:59
+bid ON 0.63 
+Do Quoc Anh Dec 1 Lien Viet Post Joint Stock Commercial Bank
+09:07:25
+1w bid 0.65 2w bid 0.68
+Viet Nguyen Phi Dec 1 Tien Phong Commercial Joint Stock Bank
+09:07:30
+sell exim 10u ON
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:07:36
+done Việt nhé
+Viet Nguyen Phi Dec 1 Tien Phong Commercial Joint Stock Bank
+09:08:01
+e tks
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+09:08:38
+Nam MB ơi done 40u 1w i sell nhe
+Ha Hai Nam Dec 1 Military Commercial Joint Stock Bank
+09:08:57
+dạ vâng
+09:08:59
+done chị Thúy
+09:09:00
+e tks
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+09:09:03
+ok tks e
+Le Lam Thinh Dec 1 Orient Commercial Bank
+09:09:18
+buy a Nam 10u On nhé
+Ha Hai Nam Dec 1 Military Commercial Joint Stock Bank
+09:09:26
+ok done Thịnh, a tks
+Tiep Le Ba Dec 1 Vietnam Prosperity JS Commercial Bank
+09:10:24
+1w bid 0.65 
+Huynh Nhat Khanh Dec 1 Vietnam Export - Import Bank
+09:12:51
+cid ON 0.63
+09:12:58
+*bid
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:24:00
+offer ON 0.63
+09:24:17
+offer On , spt 0.63
+Minh Hoang Nguyen Dec 1 Vietnam Export - Import Bank
+09:25:29
+buy chị Hà ON
+Nguyen Ngoc Ha Dec 1 Vietnam Technological Commercial Joint Stock Bank
+09:25:36
+done MH 
+09:25:38
+50u nhé
+Minh Hoang Nguyen Dec 1 Vietnam Export - Import Bank
+09:25:41
+ok chị
+Tran Hong Quan Dec 1 Vietnam Bond Market Association
+09:34:44
+VBMA xin gửi anh/chị fixing 1/12/2021
+09:34:46
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.50/0.80	 	 	 	 	 
+ACB	0.50/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+LPB	0.60/0.65	0.65/0.70	0.68/0.73	0.70/0.90	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+MSB	0.63/0.68	0.63/0.68	0.67/0.72	0.68/0.73	 	 	1.05/1.25	1.05/1.25	1.10/1.30
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	1.15/1.35	1.10/1.30	1.00/1.20	1.00/1.20	1.00/1.20
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.65/0.90	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.95	1.05/1.35	1.00/1.30	1.05/1.25	1.05/1.25	1.05/1.25
+MBB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	1.00/1.30	1.00/1.30	1.05/1.25	1.05/1.25	1.05/1.25
+VIB	0.50/0.70	0.55/0.75	0.60/0.80	0.60/0.80	 	 	 	 	 
+STB	0.50/0.70	0.55/0.75	0.55/0.75	0.60/0.80	 	 	 	 	 
+TPB	0.43/0.63	0.45/0.65	0.50/0.70	0.60/0.80	1.10/1.30	1.20/1.30	1.05/1.25	1.00/1.25	1.00/1.25
+VPB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	1.15/1.35	1.15/1.35	1.05/1.25	1.05/1.25	1.05/1.25
+EIB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+Fixing*	0.622%	0.652%	0.682%	0.738%	1.210%	1.200%	1.142%	1.138%	1.146%
+Yesterday	0.625%	0.668%	0.678%	0.714%	1.188%	1.185%	1.095%	1.080%	1.085%
+Change	-0.003%	-0.016%	0.005%	0.024%	0.023%	0.015%	0.047%	0.057%	0.061%
+14:00:01
+VBMA xin gửi anh/chị giá phiên chiều 1/12/2021
+14:00:05
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.50/0.80	 	 	 	 	 
+ACB	0.50/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+LPB	0.60/0.65	0.65/0.70	0.68/0.73	0.70/0.90	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+MSB	0.63/0.68	0.65/0.70	0.68/0.73	0.70/0.75	 	 	1.10/1.30	1.10/1.30	1.15/1.35
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.70/0.90	1.20/1.40	1.10/1.30	1.10/1.30	1.10/1.30	1.10/1.30
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.65/0.90	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.95	1.05/1.35	1.00/1.30	1.05/1.25	1.05/1.25	1.05/1.25
+MBB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	1.10/1.35	1.10/1.35	1.05/1.25	1.05/1.25	1.05/1.25
+VIB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	 	 	 	 	 
+STB	0.50/0.70	0.55/0.75	0.55/0.75	0.60/0.80	 	 	 	 	 
+TPB	0.58/0.68	0.62/0.68	0.62/0.70	0.68/0.80	1.05/1.30	1.10/1.30	1.05/1.25	1.00/1.25	1.00/1.25
+VPB	0.60/0.75	0.60/0.75	0.60/0.75	0.60/0.80	1.15/1.35	1.15/1.35	1.05/1.25	1.05/1.25	1.05/1.25
+EIB	0.55/0.75	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+Dat Duong Van Dec 1 Lien Viet Post Joint Stock Commercial Bank
+14:07:39
+LPB	ON	1W	2W	1M
+Bid	0.63	0.65	0.68	0.70
+Ask	0.65	0.70	0.73	0.75
+14:07:45
+buy c Thuy 30u 1w nhé ạ
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+14:08:06
+e lo thế giới nhé, 
+Dat Duong Van Dec 1 Lien Viet Post Joint Stock Commercial Bank
+14:08:17
+vậy nothing ạ
+14:08:23
+em tks nha
+Tran Thi Ngoc Thuy Dec 1 Tien Phong Bank
+14:08:25
+ừa
+14:11:03
+TPBank	 ON  	 1W  	 2W  	1M 
+ Bid 	 0.63 	 0.65 	 0.65 	 0.68 
+Ask	 0.65 	 0.70 	 0.70 	 0.78 
+Tran Hong Quan Dec 1 Vietnam Bond Market Association
+14:19:58
+VBMA xin gửi lại giá cuối phiên chiều 1/12/2021
+14:19:59
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.50/0.80	 	 	 	 	 
+ACB	0.50/0.70	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+LPB	0.63/0.65	0.65/0.70	0.68/0.73	0.70/0.75	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+MSB	0.63/0.68	0.65/0.70	0.68/0.73	0.70/0.75	 	 	1.10/1.30	1.10/1.30	1.15/1.35
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.70/0.90	1.20/1.40	1.10/1.30	1.10/1.30	1.10/1.30	1.10/1.30
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.65/0.90	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.95	1.05/1.35	1.00/1.30	1.05/1.25	1.05/1.25	1.05/1.25
+MBB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	1.10/1.35	1.10/1.35	1.05/1.25	1.05/1.25	1.05/1.25
+VIB	0.60/0.80	0.60/0.80	0.60/0.80	0.65/0.85	 	 	 	 	 
+STB	0.50/0.70	0.55/0.75	0.55/0.75	0.60/0.80	 	 	 	 	 
+TPB	0.63/0.65	0.65/0.70	0.65/0.70	0.68/0.78	 	 	 	 	 
+VPB	0.60/0.75	0.60/0.75	0.60/0.75	0.60/0.80	1.15/1.35	1.15/1.35	1.05/1.25	1.05/1.25	1.05/1.25
+EIB	0.55/0.75	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 

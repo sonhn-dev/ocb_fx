@@ -1,0 +1,574 @@
+DECEMBER 02, 2021
+08:48:51
+Good morning anh/chị. VBMA xin gửi anh chị swap date tham khảo. 
+08:48:53
+Morning session	 	 	 	 
+Trade date	2-Dec-21	 	 	 
+Start date	2-Dec-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	3-Dec-21	Fri	1	 
+1w	9-Dec-21	Thu	7	 
+2w	16-Dec-21	Thu	14	 
+1m	31-Dec-21	Fri	29	 
+2m	9-Feb-22	Wed	69	 
+3m	2-Mar-22	Wed	90	 
+6m	2-Jun-22	Thu	182	 
+9m	2-Sep-22	Fri	274	 
+12m	2-Dec-22	Fri	365	 
+ 	 	 	 	 
+ 	 	 	 	 
+Afternoon session	 	 	 	 
+Trade date	2-Dec-21	 	 	 
+Start date	3-Dec-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	6-Dec-21	Mon	3	 
+1w	10-Dec-21	Fri	7	 
+2w	17-Dec-21	Fri	14	 
+1m	3-Jan-22	Mon	31	 
+2m	10-Feb-22	Thu	69	 
+3m	3-Mar-22	Thu	90	 
+6m	3-Jun-22	Fri	182	 
+9m	2-Sep-22	Fri	273	 
+12m	2-Dec-22	Fri	364	 
+08:49:10
+Các anh chị lưu ý là tenor 1M cho phiên chiều đã qua năm 2022 ạ 
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+08:49:22
+Tks Quân
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+08:49:26
+03jan co nghi le ko Quan
+Tran Hong Quan Dec 2 Vietnam Bond Market Association
+08:49:55
+à đúng ạ, để em đổi lại ạ 
+08:50:33
+E gửi lại ạ
+08:50:34
+Morning session	 	 	 	 
+Trade date	2-Dec-21	 	 	 
+Start date	2-Dec-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	3-Dec-21	Fri	1	 
+1w	9-Dec-21	Thu	7	 
+2w	16-Dec-21	Thu	14	 
+1m	31-Dec-21	Fri	29	 
+2m	9-Feb-22	Wed	69	 
+3m	2-Mar-22	Wed	90	 
+6m	2-Jun-22	Thu	182	 
+9m	2-Sep-22	Fri	274	 
+12m	2-Dec-22	Fri	365	 
+ 	 	 	 	 
+ 	 	 	 	 
+Afternoon session	 	 	 	 
+Trade date	2-Dec-21	 	 	 
+Start date	3-Dec-21	 	 	 
+End date	 	 	 	 
+Tenor	Date	Weekday	Days	Note
+ON	6-Dec-21	Mon	3	 
+1w	10-Dec-21	Fri	7	 
+2w	17-Dec-21	Fri	14	 
+1m	4-Jan-22	Tue	32	 
+2m	10-Feb-22	Thu	69	 
+3m	3-Mar-22	Thu	90	 
+6m	3-Jun-22	Fri	182	 
+9m	2-Sep-22	Fri	273	 
+12m	2-Dec-22	Fri	364	 
+09:00:19
+Good morning anh/chị. VBMA xin gửi giá phiên sáng 2/12/2021e
+09:00:22
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.50/0.80	 	 	 	 	 
+ACB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+LPB	0.60/0.65	0.65/0.70	0.68/0.73	0.80/1.00	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+MSB	0.63/0.68	0.65/0.70	0.68/0.73	0.70/0.75	 	 	1.10/1.30	1.10/1.30	1.10/1.30
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.70/0.90	1.20/1.40	1.10/1.30	1.10/1.30	1.10/1.30	1.10/1.30
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.65/0.95	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.95	1.15/1.45	1.10/1.40	1.05/1.25	1.05/1.25	1.05/1.25
+MBB	0.55/0.75	0.60/0.75	0.65/0.80	0.70/0.85	1.10/1.40	1.10/1.40	1.05/1.35	1.05/1.35	1.05/1.35
+VIB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+STB	0.55/0.75	0.55/0.75	0.55/0.75	0.60/0.80	 	 	 	 	 
+TPB	0.50/0.70	0.55/0.75	0.55/0.75	0.68/0.78	1.10/1.30	1.10/1.30	1.05/1.25	1.00/1.25	1.00/1.25
+VPB	0.55/0.75	0.60/0.80	0.60/0.80	0.70/0.90	1.15/1.35	1.15/1.35	1.10/1.30	1.10/1.30	1.10/1.30
+EIB	0.50/0.70	0.50/0.70	0.60/0.80	0.65/0.95	 	 	 	 	 
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+09:00:51
+sell Dat 1m tod 10u
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:00:55
+sell LV 1m
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:00:59
+buy TPB 1m 
+09:01:03
+10u nhé
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:01:15
+sell Đạt 1m trước tết 
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:01:22
+done Tiệp 5u nhe
+Thao Pham Thi Ngoc Dec 2 Vietnam Technological Commercial Joint Stock Bank
+09:01:25
+bid 3m 1.25 tách chân 
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:01:30
+done chị Thúy nhé 
+Pham Dinh Hoa Dec 2 Asia Commercial Bank
+09:01:37
+offer 1w 0.67
+Nguyen Hoang Minh Dec 2 Saigon Thuong Tin Commercial Joint Stock Bank
+09:01:49
+1w bid .65
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:01:55
+sell a Mimi
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:01:56
+sell a Minh
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:01:57
+20u nha
+Pham Dinh Hoa Dec 2 Asia Commercial Bank
+09:01:57
+sell anh 
+Huynh Nhat Khanh Dec 2 Vietnam Export - Import Bank
+09:02:01
+sell a Mimi
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:02:05
+buy a Vũ
+Quan Nguyen Hai Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:02:05
+1m phien sang la van truoc tet a
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:02:08
+1w 0.62 0.67
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:02:09
+sáng là trc tết
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:02:10
+1w
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:02:18
+done Thảo 30u nhé
+Pham Dinh Hoa Dec 2 Asia Commercial Bank
+09:02:19
+30u 1w if suit ạ
+Nguyen Hoang Minh Dec 2 Saigon Thuong Tin Commercial Joint Stock Bank
+09:02:21
+done MSB VIB ACB 20 each
+Pham Dinh Hoa Dec 2 Asia Commercial Bank
+09:02:25
+em done anh
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:02:26
+e tksss
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:02:27
+done a Minh 
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+09:02:27
+1m phiên sáng tới 31dec
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:02:29
+done anh
+Trinh Duc An Dec 2 Sea Bank
+09:02:31
+sell VP 1m 0.78 50u nhé
+Nguyen Hoang Minh Dec 2 Saigon Thuong Tin Commercial Joint Stock Bank
+09:02:44
+tkssss cả nhà
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:02:46
+trước tết ạ:(
+Dat Duong Van Dec 2 Lien Viet Post Joint Stock Commercial Bank
+09:02:53
+LPB quote 1m sau tết nhé ạ
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:02:55
+phiên chiều mới là sau tết
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+09:03:17
+vay nothing Dat nhe
+09:03:19
+:D
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:03:19
+1m sau tết thì MB nothing nhé
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:03:37
+em nothing anh Đạt ạ
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:03:47
+vậy nothing chị thúy nhé ạ 
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:03:53
+ok Tịp
+Huynh Nhat Khanh Dec 2 Vietnam Export - Import Bank
+09:04:01
+offer 1w 0.65
+Pham Dinh Hoa Dec 2 Asia Commercial Bank
+09:04:11
+offer on spt 0.65
+Dat Duong Van Dec 2 Lien Viet Post Joint Stock Commercial Bank
+09:04:37
+Nêu vậy thì VBA nên báo trước khi ae gửi giá. Chứ 8h30 ae gửi giá cho rồi, mà 8h50 mới quote tenor thì ae không để ý  thay đổi kịp ạ
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:04:56
+ 	 ON 	  1w 	 2w 	1M
+BID	 0.55   	 0.60   	 0.60   	 0.65   
+ASK	 0.75   	 0.80   	 0.80   	 0.85   
+Nguyen Hoang Minh Dec 2 Saigon Thuong Tin Commercial Joint Stock Bank
+09:05:02
+buy exim 5u 1w nữa nhé
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:05:04
+cái này flexible mà a Dat
+Huynh Nhat Khanh Dec 2 Vietnam Export - Import Bank
+09:05:11
+done a Mimi nhé ạ
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:05:11
+vbma họ nói trc là swap date tham khảo
+Nguyen Hoang Minh Dec 2 Saigon Thuong Tin Commercial Joint Stock Bank
+09:05:12
+:D
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:05:15
+còn lại ae tự nego thôi
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:05:20
+offer ON-1w 0.65
+Nguyen Hoang Minh Dec 2 Saigon Thuong Tin Commercial Joint Stock Bank
+09:05:26
+tksss man
+Huynh Nhat Khanh Dec 2 Vietnam Export - Import Bank
+09:05:33
+e tks ạ
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:05:47
+bid spt 0.6
+Dat Duong Van Dec 2 Lien Viet Post Joint Stock Commercial Bank
+09:06:02
+à okie tks KHánh
+Hung Ngo Tuan Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:06:56
+offer spt 0.62
+Huynh Nhat Khanh Dec 2 Vietnam Export - Import Bank
+09:07:08
+offer 1w 0.65
+Nguyen Viet Anh Dec 2 HDBank
+09:08:22
+done bid VPB 6u 1y nhé ạ 
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:08:29
+buy MSB spt
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:08:33
+oki done VA 
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:08:34
+7u nhé em
+Nguyen Viet Anh Dec 2 HDBank
+09:08:42
+done anh Tiệp, em tks ạ 
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:09:33
+offer 1w 0.65
+Hung Ngo Tuan Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:10:18
+nothing chị Thảo em sqr ạ:(
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:10:24
+1w bid 0.62 
+Dat Le Tat Dec 2 SouthEast Asia Commercial Joint Stock Bank
+09:10:32
+offer ON-1w 0.65 
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:10:35
+offer ON 0.6
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:10:36
+buy TCB TPB 3m 1.3
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+09:10:38
+sell Tiep 10u 1w
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:11:36
+buy c Linh ON 7u ạ
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:11:46
+done Thảo nhé 
+Nguyen Ngoc Ha Dec 2 Vietnam Technological Commercial Joint Stock Bank
+09:11:50
+done Vũ 5u
+Dong Thi Thao Dec 2 An Binh Commercial JS Bank
+09:11:55
+em tkss chi
+Nguyen Ngoc Ha Dec 2 Vietnam Technological Commercial Joint Stock Bank
+09:11:57
+3m 1.2/1.4
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:12:00
+vâng chị
+Do Quoc Anh Dec 2 Lien Viet Post Joint Stock Commercial Bank
+09:12:01
+sell MSB 30u 2w 0.68
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:12:02
+em tks nhé
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:12:06
+buy c Thuy 2m
+09:12:15
+20u nha c
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:12:17
+TPB done e amt nào đó ạ 
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:12:21
+done a kiên nhé
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+09:12:28
+thk em
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:12:35
+ơ done 10u QA nhé
+Nguyen Ngoc Ha Dec 2 Vietnam Technological Commercial Joint Stock Bank
+09:12:38
+2m 1.25/1.45
+Do Quoc Anh Dec 2 Lien Viet Post Joint Stock Commercial Bank
+09:12:44
+vâng done a :))
+Viet Nguyen Phi Dec 2 Tien Phong Commercial Joint Stock Bank
+09:13:04
+done a Vũ 5u only nhé ạ
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:13:22
+a thì sao Viet
+Viet Nguyen Phi Dec 2 Tien Phong Commercial Joint Stock Bank
+09:13:38
+e done a Vũ only ạ
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:13:43
+buy OCB và HDB 6m 1.25 nhé
+Nguyen Ngoc Ha Dec 2 Vietnam Technological Commercial Joint Stock Bank
+09:13:44
+offer ON 0.65
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:13:50
+done Việt nhé
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:13:55
+hợ
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:13:58
+srrrr OCB và TPB
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:14:02
+2m 1.2 1.4
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:14:19
+sell VP 20u ON 0.6 nhé Tiệp 
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:15:21
+oki Linh 
+Dat Le Tat Dec 2 SouthEast Asia Commercial Joint Stock Bank
+09:15:33
+offer ON 0.6 
+Nguyen Ngoc Ha Dec 2 Vietnam Technological Commercial Joint Stock Bank
+09:15:54
+sell Tiệp 1w 0.62 15u
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:16:10
+OCB và TPB done 6m như nào đó ah
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:16:17
+done a Vũ 10u 6m nhé
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:16:22
+done Thịnh nhé
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:16:25
+done Vũ 10u nhé
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:16:31
+done chị Thúy
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:16:44
+6m 1.15 1.35
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:16:52
+e squr 1w nhé ạ 
+09:17:16
+2m 1.15 1.35 
+09:17:20
+eee
+09:17:24
+6m 1.15 1.35 
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:17:52
+6m-1y 1.15/1.35
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:18:08
+6m-1y 1.15 1.35
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:18:19
+1y bid 1.2
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:20:46
+1y offer 1.25 
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:21:39
+Bank	Price	ON	1W	2W	1M 
+VIB	Bid	0.5	0.55	0.58	0.6
+ 	Ask	0.6	0.65	0.68	0.8
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:21:45
+buy VP 2m 1.35 nhé ạ
+09:22:36
+em xin 20u
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:22:53
+TPBank	 ON  	 1W  	 2W  	1M 	2M 	3M 	6M 	9M 	1Y 
+ Bid 	 0.50 	 0.55 	 0.58 	 0.68 	 1.25 	 1.25 	 1.20 	 1.10 	 1.00 
+Ask	 0.60 	 0.65 	 0.68 	 0.78 	 1.45 	 1.45 	 1.40 	 1.35 	 1.35 
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:23:38
+a đổi lên 1.4 rồi thịnh ơi 
+09:23:50
+09:14:02 Tiep Le Ba 2m 1.2 1.4
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:24:03
+à okie thế nothing a Tiệp
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:24:53
+9m offer 1.25 
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:27:39
+sell a Vũ thêm 10u 6m 1.25, total 20u nhé ah
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:27:48
+okiee Thịnh
+09:27:50
+tks em
+Le Lam Thinh Dec 2 Orient Commercial Bank
+09:27:54
+e tks
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:31:46
+sell VIB 6m 1.25 if suit 
+Vu Ha Tuan Dec 2 Vietnam International Bank
+09:32:57
+not suit nhé Tiệp
+09:33:31
+6m 1.2/1.3
+Anh Nguyen Hoang Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:34:13
+offer 6m tom 1,25
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:35:28
+dạ vâng a 
+09:35:39
+sell thêm HD 1y VA ơiiiiiii
+Nguyen Viet Anh Dec 2 HDBank
+09:36:08
+1y em sq ạ D: 
+09:36:11
+có 1.1 em bid ít:D 
+Dat Duong Van Dec 2 Lien Viet Post Joint Stock Commercial Bank
+09:36:32
+Khánh bid 1.2 kìa a Tiệp
+Dao Le Linh Le Dec 2 Military Commercial Joint Stock Bank
+09:37:11
+chắc Khánh cũng sớm ra đi rồi:D
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:37:25
+thôi e sai r:(
+Tiep Le Ba Dec 2 Vietnam Prosperity JS Commercial Bank
+09:38:35
+Khánh bid à 
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+09:39:14
+e nghĩ lại rùi
+09:39:18
+a Tip sell c Thuy 6m đi:(
+Tran Thi Ngoc Thuy Dec 2 Tien Phong Bank
+09:39:30
+bid 6m tod tom 1.2
+Tran Hong Quan Dec 2 Vietnam Bond Market Association
+09:41:48
+VBMA xin gửi anh/chị fixing ngày 2/12/2021
+09:41:50
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.50/0.80	 	 	 	 	 
+ACB	0.55/0.75	0.55/0.75	0.60/0.80	0.65/0.85	 	 	 	 	 
+LPB	0.60/0.65	0.65/0.70	0.68/0.73	0.80/1.00	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.65/0.85	 	 	 	 	 
+MSB	0.63/0.68	0.65/0.70	0.68/0.73	0.70/0.75	 	 	1.10/1.30	1.10/1.30	1.10/1.30
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.70/0.90	1.25/1.45	1.20/1.40	1.10/1.30	1.10/1.30	1.10/1.30
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.65/0.95	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.65/0.95	1.15/1.45	1.10/1.40	1.15/1.35	1.15/1.35	1.15/1.35
+MBB	0.55/0.75	0.60/0.75	0.65/0.80	0.70/0.85	1.10/1.40	1.10/1.40	1.05/1.35	1.05/1.35	1.05/1.35
+VIB	0.50/0.60	0.55/0.65	0.58/0.68	0.60/0.80	 	 	 	 	 
+STB	0.55/0.75	0.55/0.75	0.55/0.75	0.60/0.80	 	 	 	 	 
+TPB	0.50/0.60	0.55/0.65	0.58/0.68	0.68/0.78	1.25/1.45	1.25/1.45	1.20/1.40	1.10/1.35	1.00/1.35
+VPB	0.55/0.75	0.60/0.80	0.60/0.80	0.65/0.85	1.20/1.40	1.15/1.35	1.15/1.35	1.10/1.30	1.10/1.30
+EIB	0.50/0.70	0.50/0.70	0.60/0.80	0.65/0.95	 	 	 	 	 
+Fixing*	0.627%	0.655%	0.685%	0.759%	1.310%	1.280%	1.233%	1.213%	1.204%
+Yesterday	0.622%	0.652%	0.682%	0.738%	1.210%	1.200%	1.142%	1.138%	1.146%
+Change	0.005%	0.003%	0.003%	0.021%	0.100%	0.080%	0.092%	0.075%	0.058%
+14:01:57
+VBMA xin gửi anh/chị giá phiên chiều 2/12/2021
+14:01:59
+Bank/Tenor	ON	1W	2W	1M	2M	3M	6M	9M	1Y
+ABB	0.50/0.80	0.50/0.80	0.50/0.80	0.70/1.00	 	 	 	 	 
+ACB	0.55/0.75	0.55/0.75	0.60/0.80	0.80/1.10	 	 	 	 	 
+LPB	0.60/0.65	0.65/0.70	0.68/0.73	0.80/1.00	 	 	 	 	 
+SEAB	0.50/0.70	0.55/0.75	0.55/0.75	0.70/1.00	 	 	 	 	 
+MSB	0.60/0.65	0.60/0.65	0.62/0.67	0.85/1.15	 	 	1.10/1.30	1.10/1.30	1.10/1.30
+TCB	0.55/0.75	0.55/0.75	0.60/0.80	0.75/0.95	1.30/1.45	1.25/1.40	1.10/1.30	1.10/1.30	1.10/1.30
+HDB	0.50/0.70	0.60/0.80	0.60/0.80	0.75/1.05	 	 	 	 	 
+OCB	0.60/0.80	0.60/0.80	0.65/0.85	0.80/1.00	1.30/1.50	1.25/1.45	1.10/1.30	1.10/1.30	1.10/1.30
+MBB	0.55/0.70	0.60/0.75	0.60/0.75	0.80/1.00	1.10/1.40	1.10/1.40	1.10/1.30	1.10/1.30	1.10/1.30
+VIB	0.60/0.70	0.60/0.70	0.60/0.70	0.80/1.00	 	 	 	 	 
+STB	0.55/0.75	0.55/0.75	0.55/0.75	0.70/1.00	 	 	 	 	 
+TPB	0.55/0.70	0.55/0.75	0.60/0.80	0.80/1.05	1.30/1.50	1.25/1.45	1.15/1.35	1.10/1.35	1.10/1.35
+VPB	0.55/0.75	0.60/0.80	0.60/0.80	0.70/0.90	1.25/1.45	1.15/1.35	1.10/1.30	1.10/1.30	1.10/1.30
+EIB	0.50/0.70	0.50/0.70	0.55/0.75	0.70/1.00	 	 	 	 	 
+Do Quoc Anh Dec 2 Lien Viet Post Joint Stock Commercial Bank
+14:02:41
+done MSB 20u each 1w 2w nhé ạ
+Nguyen Duy Khanh Dec 2 Vietnam Maritime Commercial Joint Stock Bank
+14:02:54
+oki QA
+Thao Pham Thi Ngoc Dec 2 Vietnam Technological Commercial Joint Stock Bank
+14:04:05
+bid 3m 1.35 tách chân tom 
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+14:31:07
+sell OCB 10u ON
+Do Thi Van Anh Dec 2 Orient Commercial Bank
+14:32:27
+buy VP 3m
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+14:33:57
+done ON ko chị VA ui
+14:34:03
+ko em đem về cất nè
+Do Thi Van Anh Dec 2 Orient Commercial Bank
+14:34:32
+done Kiên nhé
+Kien Nguyen Khac Dec 2 Asia Commercial Bank
+14:34:37
+done thk chi
+Do Thi Van Anh Dec 2 Orient Commercial Bank
+14:37:44
+tks em
+14:38:23
+VP ơi done 3m ko ạ
