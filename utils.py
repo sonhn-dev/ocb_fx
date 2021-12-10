@@ -9,7 +9,7 @@ def load_files(path, filenames):
     data = []
     i = 0
     for filename in filenames:
-        filepath = os.path.sep.join([path, filename])
+        filepath = os.path.join(path, filename)
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
             with open(filepath, encoding='utf-8') as file:
@@ -19,7 +19,7 @@ def load_files(path, filenames):
         except:
             pass
     print(i, ' file(s) read')
-  
+
     df = pd.DataFrame(data)
     df.columns = ['date', 'text']
     df['date'] = pd.to_datetime(df['date'])
