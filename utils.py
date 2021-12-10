@@ -3,13 +3,13 @@ import pandas as pd
 import re
 import os
 
-def load_files(path, filenames):
+def load_files(folder):
     """ Load txt files to dataframe """
 
     data = []
     i = 0
-    for filename in filenames:
-        filepath = os.path.join(path, filename)
+    for filename in os.listdir(folder):
+        filepath = os.path.join(folder, filename)
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
             with open(filepath, encoding='utf-8') as file:
@@ -33,7 +33,7 @@ def to_structured_data(df):
 
     r = re.compile(r'^(\d\d:\d\d:\d\d)$')
     df['time'] = df['text'].str.extract(r)
-    pat = '(.*)\s(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov)\s\d+\s(.*)$'
+    pat = r'(.*)\s(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s\d+\s(.*)$'
     r = re.compile(pat)
     df[['trader', 'bank']] = df['text'].str.extract(r)
     cond = df[['time', 'trader', 'bank']].isna().all(axis='columns')
