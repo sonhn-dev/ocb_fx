@@ -3,13 +3,13 @@ import pandas as pd
 import re
 import os
 
-def load_files(dir):
+def load_files(path, filenames):
     """ Load txt files to dataframe """
 
     data = []
     i = 0
-    for filename in os.listdir(dir):
-        filepath = os.path.sep.join([dir, filename])
+    for filename in filenames:
+        filepath = os.path.sep.join([path, filename])
         try:
             date = re.findall(r'^(\d\d\d\d\d\d\d\d)\.txt$', filename)[0]
             with open(filepath, encoding='utf-8') as file:
