@@ -40,24 +40,6 @@ def to_structured_data(df):
     df.fillna(method='ffill', axis='rows', inplace=True)
     df = df[cond]
     df = df[~df['time'].isna()]
-
-    df['group'] = 0
-    cols = df.columns.to_list()
-    trader_idx = cols.index('trader')
-    date_idx = cols.index('date')
-    group_idx = cols.index('group')
-    for i in range(1, df.shape[0]):
-        if (df.iloc[i, date_idx] == df.iloc[i-1, date_idx] and
-            df.iloc[i, trader_idx] == df.iloc[i-1, trader_idx]):
-            df.iloc[i, group_idx] = df.iloc[i-1, group_idx]
-        else:
-            df.iloc[i, group_idx] = df.iloc[i-1, group_idx] + 1
-
-    df = df.groupby(['date', 'group'], as_index=False).agg({
-        'trader': 'first',
-        'bank': 'first',
-        'time': np.max,
-        'text': lambda s: '. '.join(s)
-    })
-    df.drop('group', axis='columns', inplace=True)
+    df.reindex(drop=True, inplace=True)
+ 
     return df
